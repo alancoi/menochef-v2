@@ -90,7 +90,15 @@ app.post('/api/chat', async (req, res) => {
 Eres amable, empático y knowledgeable. Das recomendaciones basadas en evidencia pero de forma accesible.
 Tienes acceso a recetas saludables y puedes recomendarlas.
 
-Responde en español. Sé conciso pero informativo.`,
+IMPORTANTE - Formatea tus respuestas así:
+• Usa viñetas (•) para listas
+• Separa secciones con saltos de línea claros
+• Evita usar ## o # para títulos, usa MAYÚSCULAS en su lugar
+• Estructura: introduce el tema → puntos clave → acción recomendada
+• Sé claro y conciso, máximo 3-4 párrafos cortos
+• Si mencionas una receta, describe brevemente qué es y sus beneficios
+
+Responde en español. Sé conciso pero informativo y visual.`,
       messages: [
         {
           role: 'user',
