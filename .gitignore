@@ -19,3 +19,4 @@ extract_recipes*.py
 extract_test.py
 extract_recipes*.py
 extract_test.py
+/frontend/.git
