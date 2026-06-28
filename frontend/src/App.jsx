@@ -8,7 +8,7 @@ import AdminDashboard from './components/AdminDashboard';
 import EducationalInfo from './components/EducationalInfo';
 import './App.css';
 
-const BACKEND_URL = 'https://menochef-backend.vercel.app';
+const BACKEND_URL = 'https://menochef-v2-backend.vercel.app';
 
 export default function App() {
   const [screen, setScreen] = useState('home'); // home, recipes, chat, profile, admin
