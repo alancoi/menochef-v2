@@ -108,8 +108,11 @@ Responde en español. Sé conciso pero informativo.`,
   }
 });
 
-app.listen(PORT, () => {
-  console.log(`🍳 Backend en puerto ${PORT}`);
-});
+// Listener solo para desarrollo local
+if (process.env.NODE_ENV !== 'production') {
+  app.listen(PORT, () => {
+    console.log(`🍳 Backend en puerto ${PORT}`);
+  });
+}
 
 export default app;
