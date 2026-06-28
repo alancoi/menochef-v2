@@ -68,10 +68,6 @@ app.get('/api/recipes', async (req, res) => {
 });
 
 // Chat endpoint - Asistente Virtual
-const client = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY
-});
-
 app.post('/api/chat', async (req, res) => {
   try {
     const { message } = req.body;
@@ -81,6 +77,10 @@ app.post('/api/chat', async (req, res) => {
     }
 
     console.log(`💬 Pregunta: "${message}"`);
+
+    const client = new Anthropic({
+      apiKey: process.env.ANTHROPIC_API_KEY
+    });
 
     const response = await client.messages.create({
       model: 'claude-3-5-sonnet-20241022',
