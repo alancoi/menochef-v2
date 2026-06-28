@@ -1,0 +1,127 @@
+.header {
+  background: linear-gradient(180deg, #f8f4ee 0%, #faf7f2 100%);
+  padding: 1.5rem 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 1px solid rgba(143, 175, 157, 0.1);
+}
+
+.header-center {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.logo-container {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.logo-image {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  filter: drop-shadow(0 6px 16px rgba(143, 175, 157, 0.2));
+  transition: all 0.3s ease;
+}
+
+.logo-container:hover .logo-image {
+  filter: drop-shadow(0 8px 20px rgba(143, 175, 157, 0.3));
+  transform: scale(1.08);
+}
+
+.settings-btn-header {
+  position: absolute;
+  right: 1rem;
+  top: 1.2rem;
+}
+
+.settings-icon-header {
+  font-size: 1.5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.settings-icon-header:hover {
+  background-color: rgba(143, 175, 157, 0.15);
+  transform: rotate(20deg) scale(1.1);
+}
+
+.settings-menu-header {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  border: 1px solid rgba(143, 175, 157, 0.15);
+  min-width: 240px;
+  margin-top: 0.75rem;
+  overflow: hidden;
+  animation: slideDown 0.2s ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.settings-menu-header button {
+  display: block;
+  width: 100%;
+  padding: 0.85rem 1.2rem;
+  background: none;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  color: var(--color-text);
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid rgba(143, 175, 157, 0.1);
+}
+
+.settings-menu-header button:last-child {
+  border-bottom: none;
+}
+
+.settings-menu-header button:hover {
+  background-color: rgba(143, 175, 157, 0.1);
+  padding-left: 1.4rem;
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 1.5rem 1rem;
+  }
+
+  .logo-image {
+    width: 70px;
+    height: 70px;
+  }
+
+  .settings-btn-header {
+    right: 0.5rem;
+    top: 1.5rem;
+  }
+
+  .settings-icon-header {
+    font-size: 1.3rem;
+  }
+}

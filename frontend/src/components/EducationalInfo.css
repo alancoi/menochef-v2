@@ -1,0 +1,144 @@
+.educational-info-section {
+  max-width: 1000px;
+  margin: 5rem auto 3rem;
+  padding: 3rem 1.5rem;
+  background: linear-gradient(135deg, #f9fdf9 0%, #f5faf8 100%);
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(143, 175, 157, 0.1);
+}
+
+.edu-title {
+  font-size: 2rem;
+  background: linear-gradient(135deg, #8faf9d 0%, #6f8f7a 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font-weight: 800;
+}
+
+.edu-subtitle {
+  text-align: center;
+  color: #999;
+  font-size: 1rem;
+  margin-bottom: 2.5rem;
+  font-weight: 500;
+}
+
+.info-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.info-card {
+  background: white;
+  border-radius: 16px;
+  padding: 1.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+  box-shadow: 0 4px 12px rgba(143, 175, 157, 0.08);
+  position: relative;
+  overflow: hidden;
+}
+
+.info-card:hover {
+  border-color: #8faf9d;
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(143, 175, 157, 0.15);
+}
+
+.info-card.expanded {
+  border-color: #8faf9d;
+  background: linear-gradient(135deg, #f9fdf9 0%, #f0f5f3 100%);
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.card-emoji {
+  font-size: 2.5rem;
+  line-height: 1;
+  min-width: 3rem;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  color: #8faf9d;
+  margin: 0;
+  font-weight: 700;
+}
+
+.card-short-text {
+  font-size: 0.95rem;
+  color: #666;
+  margin: 0;
+  line-height: 1.5;
+  min-height: 2.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.card-full-text {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 0;
+  line-height: 1.7;
+  animation: slideDown 0.3s ease-out;
+}
+
+.card-indicator {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  font-size: 1.5rem;
+  color: #8faf9d;
+  font-weight: bold;
+  transition: transform 0.3s ease;
+}
+
+.info-card.expanded .card-indicator {
+  transform: rotate(180deg);
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .educational-info-section {
+    margin: 3rem auto 2rem;
+    padding: 2rem 1rem;
+  }
+
+  .edu-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .info-cards-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .card-emoji {
+    font-size: 2rem;
+    min-width: 2.5rem;
+  }
+
+  .card-title {
+    font-size: 1.1rem;
+  }
+}
