@@ -1,0 +1,3363 @@
+[
+  {
+    "name": "HUEVOS REVUELTOS CON TOSTADAS INTEGRALES",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 2 grandes",
+      "Pan integral: 2 rebanadas",
+      "Manteca sin sal: 10g",
+      "Tomate fresco: 50g",
+      "Perejil fresco: 5g"
+    ],
+    "benefits": "",
+    "instructions": "Tuesta pan integral. En sartén, calienta manteca a fuego medio. Bate 2 huevos vigorosamente.",
+    "motivational_text": "Tu merienda es tu momento de paz. Disfrútalo sin culpa.",
+    "button_category": "Más energía",
+    "id": 1,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "LICUADO DE FRUTAS ROJAS CON YOGUR",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Fresas frescas: 80g",
+      "Frambuesas frescas: 60g",
+      "Yogur natural: 150ml",
+      "Miel pura: 1 cucharadita",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Licúa fresas, frambuesas, yogur, miel, hielo 2 minutos. Bebe lentamente en la mañana.",
+    "motivational_text": "Comida de verdad en el momento justo. Eso es lo que tenés.",
+    "button_category": "Más energía",
+    "id": 2,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TOSTADAS DE PAN INTEGRAL CON QUESO Y TOMATE",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Pan integral: 2 rebanadas",
+      "Queso de campo: 40g",
+      "Tomate fresco: 80g",
+      "Cebolla roja: 1/4 pequeña",
+      "Perejil fresco: 5g",
+      "Aceite de oliva: 5ml"
+    ],
+    "benefits": "",
+    "instructions": "Tuesta pan integral. Pica tomate en cubos. Pica cebolla muy finamente.",
+    "motivational_text": "Come lentamente. Cada bocado es nutrición real.",
+    "button_category": "Más energía",
+    "id": 3,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "SMOOTHIE DE ESPINACA Y PLÁTANO",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Espinaca fresca: 50g",
+      "Plátano maduro: 1",
+      "Leche de almendras: 250ml",
+      "Miel pura: 1 cucharadita",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Licúa espinaca, plátano, leche, miel, hielo 2 minutos. Bebe lentamente. El smoothie es verde y muy nutritivo.",
+    "motivational_text": "Tu cuerpo va a estar agradecido. Come tranquila.",
+    "button_category": "Más energía",
+    "id": 4,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "OMELETTE CON CHAMPIÑONES Y CEBOLLA",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 2 grandes",
+      "Champiñones frescos: 80g",
+      "Cebolla blanca: 50g",
+      "Aceite de oliva: 10ml",
+      "Perejil fresco: 5g"
+    ],
+    "benefits": "",
+    "instructions": "Limpia champiñones. Córtalos en láminas. Pica cebolla.",
+    "motivational_text": "Desayuno o merienda, lo importante es que sea comida real.",
+    "button_category": "Más energía",
+    "id": 5,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "PAN INTEGRAL CON MANTEQUILLA DE CACAHUETE Y BANANA",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Pan integral: 2 rebanadas",
+      "Mantequilla de cacahuete natural: 2 cucharadas",
+      "Banana: 1/2",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Tuesta pan integral.",
+    "motivational_text": "Come con libertad. Sin prisa. Sin culpa.",
+    "button_category": "Más energía",
+    "id": 6,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "BATIDO DE PLÁTANO CON AVENA",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Plátano maduro: 1",
+      "Avena sin gluten: 40g",
+      "Leche de almendras: 250ml",
+      "Miel pura: 1 cucharadita",
+      "Vainilla natural: 1 gota",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "Plátano triptófano. Avena avenina. Batido que sostiene.",
+    "instructions": "Pela plátano. Licúa con avena, leche, miel, vainilla, hielo 2 minutos. Bebe lentamente en la mañana. Energía durante horas.",
+    "motivational_text": "Este momento es tuyo. Alimentate bien.",
+    "button_category": "Más energía",
+    "id": 7,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "HUEVOS DUROS CON ENSALADA DE RÚCULA",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 2",
+      "Rúcula fresca: 100g",
+      "Tomate cherry: 80g",
+      "Cebolla roja: 1/8",
+      "Limón fresco: 1/4",
+      "Aceite de oliva: 10ml"
+    ],
+    "benefits": "",
+    "instructions": "Cocina 2 huevos 10 minutos. Enfría. Pela. Corta en cuartos. Lava rúcula. Corta tomate cherry a mitades. Pica cebolla fina. Monta ensalada.",
+    "motivational_text": "Comida que nutre. Eso es lo que merecés.",
+    "button_category": "Más energía",
+    "id": 8,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "GRANOLA CASERA CON LECHE DE ALMENDRAS",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Avena sin gluten: 50g",
+      "Almendras crudas: 30g",
+      "Miel pura: 2 cucharadas",
+      "Aceite de coco: 15ml",
+      "Leche de almendras: 250ml",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "",
+    "instructions": "En sartén seca, tuesta avena 2 minutos.",
+    "motivational_text": "Come despacio. Mastica lentamente. Disfruta.",
+    "button_category": "Más energía",
+    "id": 9,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "OMELETTE DE ESPINACA Y QUESO",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 2 grandes",
+      "Espinaca fresca: 80g",
+      "Queso de campo: 25g",
+      "Cebolla blanca: 1/4",
+      "Aceite de oliva: 10ml"
+    ],
+    "benefits": "",
+    "instructions": "Lava espinaca. Córtala en tiras. Pica cebolla.",
+    "motivational_text": "Tu bienestar empieza en este plato.",
+    "button_category": "Más energía",
+    "id": 10,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "HUEVOS POCHADOS CON VEGETALES",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 2 grandes",
+      "Espinaca fresca: 80g",
+      "Tomate cherry: 80g",
+      "Cebolla: 1/4 pequeña",
+      "Aceite de oliva: 10ml",
+      "Agua filtrada: 500ml"
+    ],
+    "benefits": "",
+    "instructions": "En olla con agua hirviendo salada, forma remolino suave. Rompe huevos.",
+    "motivational_text": "Nutrición real en cada bocado.",
+    "button_category": "Más energía",
+    "id": 11,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "AVENA CON COMPOTA DE FRUTAS",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Avena sin gluten: 50g",
+      "Leche de almendras: 250ml",
+      "Compota de manzana casera: 80g",
+      "Canela: 1/4 cucharadita",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Calienta leche.",
+    "motivational_text": "Come tranquila. Tu cuerpo sabe qué hacer.",
+    "button_category": "Más energía",
+    "id": 12,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "BATIDO DE FRESAS CON YOGUR",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Fresas frescas: 100g",
+      "Yogur natural: 150ml",
+      "Miel pura: 1 cucharadita",
+      "Limón fresco: 1/4",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Licúa fresas, yogur, miel, limón, hielo 2 minutos. Bebe lentamente en la mañana.",
+    "motivational_text": "Desayuno o merienda, comida que respeta tu cuerpo.",
+    "button_category": "Más energía",
+    "id": 13,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "HUEVOS AL HORNO CON ESPINACA",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 2 grandes",
+      "Espinaca fresca: 80g",
+      "Crema de verduras: 50ml",
+      "Queso de campo: 20g",
+      "Aceite de oliva: 10ml"
+    ],
+    "benefits": "",
+    "instructions": "Precalienta horno a 180°C. Lava espinaca. Córtala.",
+    "motivational_text": "Come con toda la calma del mundo.",
+    "button_category": "Más energía",
+    "id": 14,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "LICUADO DE PLÁTANO Y CACAO",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Plátano maduro: 1",
+      "Cacao puro en polvo: 1 cucharada",
+      "Leche de almendras: 250ml",
+      "Miel pura: 1 cucharadita",
+      "Vainilla natural: 1 gota",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Pela plátano. Licúa con cacao, leche, miel, vainilla, hielo 2 minutos. Bebe lentamente.",
+    "motivational_text": "Placer y nutrición juntos. Eso es esto.",
+    "button_category": "Más energía",
+    "id": 15,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "HUEVOS REVUELTOS CON ESPINACA Y TOMATE",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 3 grandes",
+      "Espinaca fresca: 60g",
+      "Tomate fresco: 80g",
+      "Cebolla: 1/4 pequeña",
+      "Aceite de oliva: 10ml"
+    ],
+    "benefits": "",
+    "instructions": "Pica cebolla en cubitos. Corta tomate en cubos pequeños. Lava espinaca.",
+    "motivational_text": "Tu momento especial. Disfrútalo.",
+    "button_category": "Más energía",
+    "id": 16,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "PAN DE MOLDE INTEGRAL CON MERMELADA CASERA",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Pan integral de molde: 2 rebanadas",
+      "Mermelada casera sin azúcar: 2 cucharadas",
+      "Manteca sin sal: 5g",
+      "Té caliente: 250ml"
+    ],
+    "benefits": "",
+    "instructions": "Tuesta pan integral levemente. Unta manteca.",
+    "motivational_text": "Comida que alimenta cuerpo y mente.",
+    "button_category": "Más energía",
+    "id": 17,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "BATIDO DE MANZANA Y CANELA",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Manzana verde: 1 mediana",
+      "Leche de almendras: 250ml",
+      "Miel pura: 1 cucharadita",
+      "Canela en polvo: 1/4 cucharadita",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Pela y corta manzana en cubos. Licúa con leche, miel, canela, hielo 2 minutos. Bebe lentamente.",
+    "motivational_text": "Come lentamente. Sin ansiedad. Sin estrés.",
+    "button_category": "Más energía",
+    "id": 18,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "HUEVOS AL NIDO CON VEGETALES",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 2",
+      "Pan integral rallado: 40g",
+      "Cebolla: 1/4 pequeña",
+      "Pimiento rojo: 50g",
+      "Tomate: 50g",
+      "Aceite de oliva: 10ml"
+    ],
+    "benefits": "",
+    "instructions": "Precalienta horno a 180°C.",
+    "motivational_text": "Este plato es tu inversión en bienestar.",
+    "button_category": "Más energía",
+    "id": 19,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "YOGUR CON GRANOLA CASERA Y MIEL",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Yogur natural: 150ml",
+      "Granola casera: 40g",
+      "Miel pura: 1 cucharada",
+      "Almendras crudas: 20g"
+    ],
+    "benefits": "",
+    "instructions": "Sirve yogur en bowl pequeño.",
+    "motivational_text": "Desayuno o merienda, siempre comida de verdad.",
+    "button_category": "Más energía",
+    "id": 20,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TOSTADAS CON AGUACATE Y TOMATE",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Pan integral: 2 rebanadas",
+      "Aguacate maduro: 1/2",
+      "Tomate fresco: 80g",
+      "Limón fresco: 1/4",
+      "Sal marina y pimienta: al gusto",
+      "Aceite de oliva: 5ml"
+    ],
+    "benefits": "",
+    "instructions": "Tuesta pan integral.",
+    "motivational_text": "Come como si fuera un acto de amor.",
+    "button_category": "Más energía",
+    "id": 21,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "LICUADO DE PIÑA Y COCO",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Piña fresca: 150g",
+      "Coco rallado sin azúcar: 30g",
+      "Leche de almendras: 250ml",
+      "Miel pura: 1 cucharadita",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Corta piña en cubos. Licúa con coco, leche, miel, hielo 2 minutos. Bebe lentamente.",
+    "motivational_text": "Nutrición real es libertad.",
+    "button_category": "Más energía",
+    "id": 22,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "HUEVOS REVUELTOS CON PIMIENTO Y CEBOLLA",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 3 grandes",
+      "Pimiento rojo: 80g",
+      "Cebolla blanca: 60g",
+      "Tomate fresco: 50g",
+      "Aceite de oliva: 10ml"
+    ],
+    "benefits": "",
+    "instructions": "Pica pimiento, cebolla, tomate en cubitos pequeños.",
+    "motivational_text": "Come sin culpa. Porque esto lo mereces.",
+    "button_category": "Más energía",
+    "id": 23,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "BATIDO DE BERRIES Y CACAO",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Frambuesas frescas: 80g",
+      "Arándanos frescos: 60g",
+      "Cacao puro en polvo: 1 cucharada",
+      "Leche de almendras: 250ml",
+      "Miel pura: 1 cucharadita",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Licúa frambuesas, arándanos, cacao, leche, miel, hielo 2 minutos. Bebe lentamente.",
+    "motivational_text": "Tu cuerpo va a brillar después de esto.",
+    "button_category": "Más energía",
+    "id": 24,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "HUEVOS CON QUESO FRESCO Y PEREJIL",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 2 grandes",
+      "Queso fresco: 50g",
+      "Perejil fresco: 10g",
+      "Cebolla de verdeo: 30g",
+      "Aceite de oliva: 10ml"
+    ],
+    "benefits": "",
+    "instructions": "Corta queso fresco en cubos. Pica perejil y cebolla de verdeo.",
+    "motivational_text": "Comida honesta para mujer honesta.",
+    "button_category": "Más energía",
+    "id": 25,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "PAN TOSTADO CON QUESO RICOTA Y FRUTAS",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Pan integral: 2 rebanadas",
+      "Queso ricota: 100g",
+      "Manzana: 1/2 mediana",
+      "Miel pura: 1 cucharada",
+      "Canela: una pizca"
+    ],
+    "benefits": "",
+    "instructions": "Tuesta pan integral.",
+    "motivational_text": "Desayuno o merienda, tu momento especial.",
+    "button_category": "Más energía",
+    "id": 26,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "SMOOTHIE DE PAPAYA Y YOGUR",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Papaya fresca: 150g",
+      "Yogur natural: 150ml",
+      "Miel pura: 1 cucharadita",
+      "Limón fresco: 1/4",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Corta papaya en cubos. Licúa con yogur, miel, limón, hielo 2 minutos. Bebe lentamente.",
+    "motivational_text": "Come y siente cómo tu cuerpo se recompone.",
+    "button_category": "Más energía",
+    "id": 27,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "OMELETTE CON PIMIENTOS Y CEBOLLA",
+    "type": "DESAYUNO",
+    "ingredients": [
+      "Huevos: 2 grandes",
+      "Pimiento rojo: 60g",
+      "Pimiento amarillo: 60g",
+      "Cebolla blanca: 50g",
+      "Aceite de oliva: 10ml"
+    ],
+    "benefits": "",
+    "instructions": "Pica pimientos y cebolla en tiras finas.",
+    "motivational_text": "Placer sin remordimiento. Eso es lo importante.",
+    "button_category": "Más energía",
+    "id": 28,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "MANZANA CON MANTEQUILLA DE ALMENDRA",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Manzana verde: 1 mediana",
+      "Mantequilla de almendra: 2 cucharadas",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Corta manzana en rodajas o trozos.",
+    "motivational_text": "Come lentamente. Mastica bien. Disfruta mucho.",
+    "button_category": "Más energía",
+    "id": 29,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "YOGUR CON GRANOLA Y FRUTAS",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Yogur natural: 150ml",
+      "Granola casera: 40g",
+      "Fresas frescas: 60g",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Sirve yogur en bowl.",
+    "motivational_text": "Nutrición que te sostiene horas.",
+    "button_category": "Más energía",
+    "id": 30,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TÉ VERDE CON GALLETAS DE ALMENDRA",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Té verde: 1 bolsita",
+      "Agua caliente: 250ml",
+      "Galletas de almendra caseras: 2 pequeñas",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua.",
+    "motivational_text": "Desayuno o merienda, comida que sacia.",
+    "button_category": "Más energía",
+    "id": 31,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "COMPOTA DE PERA CON CANELA",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Peras maduras: 300g",
+      "Agua filtrada: 150ml",
+      "Canela en polvo: 1/4 cucharadita",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Pela y corta peras.",
+    "motivational_text": "Come con libertad total.",
+    "button_category": "Más energía",
+    "id": 32,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "MERIENDA DE QUESO Y PAN INTEGRAL",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Pan integral: 1 rebanada",
+      "Queso de campo: 50g",
+      "Tomate fresco: 50g",
+      "Aceite de oliva: 5ml"
+    ],
+    "benefits": "",
+    "instructions": "Tuesta pan integral.",
+    "motivational_text": "Tu bienestar está en este plato.",
+    "button_category": "Más energía",
+    "id": 33,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "FRESAS CON CHOCOLATE DERRETIDO",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Fresas frescas: 100g",
+      "Chocolate puro 70%: 50g",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Lava fresas.",
+    "motivational_text": "Comida real para cuerpo real.",
+    "button_category": "Más energía",
+    "id": 34,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "COMPOTA DE MANZANA CON NUECES",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Manzana verde: 200g",
+      "Agua filtrada: 100ml",
+      "Nueces crudas: 30g",
+      "Miel pura: 1 cucharadita",
+      "Canela: 1/4 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Pela y corta manzana.",
+    "motivational_text": "Come sin prisa. Sin estrés. Con alegría.",
+    "button_category": "Más energía",
+    "id": 35,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TÉ DE MANZANILLA CON GALLETA INTEGRAL",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Agua filtrada: 250ml",
+      "Flores de manzanilla: 3",
+      "Galleta integral casera: 1 pequeña",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua.",
+    "motivational_text": "Desayuno o merienda, siempre tu momento.",
+    "button_category": "Más energía",
+    "id": 36,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "ALMENDRAS TOSTADAS CON DÁTILES",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Almendras crudas: 50g",
+      "Dátiles sin semilla: 60g",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "En sartén seca, tuesta almendras 2-3 minutos.",
+    "motivational_text": "Nutrición que amas. Eso es lo que tenés.",
+    "button_category": "Más energía",
+    "id": 37,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "YOGUR CON ARÁNDANOS Y GRANOLA",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Yogur natural: 150ml",
+      "Arándanos frescos: 80g",
+      "Granola casera: 30g",
+      "Miel pura: 1 cucharada"
+    ],
+    "benefits": "",
+    "instructions": "Sirve yogur en bowl pequeño.",
+    "motivational_text": "Come como mereces ser alimentada.",
+    "button_category": "Más energía",
+    "id": 38,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "CAFÉ CON PAN TOSTADO Y QUESO",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Café expreso: 1 taza pequeña",
+      "Pan integral: 1 rebanada",
+      "Queso de campo: 40g",
+      "Tomate fresco: 50g",
+      "Aceite de oliva: 5ml"
+    ],
+    "benefits": "",
+    "instructions": "Prepara café.",
+    "motivational_text": "Tu cuerpo agradece esta comida.",
+    "button_category": "Más energía",
+    "id": 39,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TÉ DE MANZANILLA CON MIEL",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Agua filtrada: 250ml",
+      "Flores de manzanilla fresca: 3",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua.",
+    "motivational_text": "Desayuno o merienda, comida que nutre.",
+    "button_category": "Más energía",
+    "id": 40,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "NUECES Y CHOCOLATE",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Nueces crudas: 50g",
+      "Chocolate puro 70%: 30g",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Coloca nueces en plato.",
+    "motivational_text": "Come lentamente y siente la diferencia.",
+    "button_category": "Más energía",
+    "id": 41,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "MERIENDA DE QUESO BLANCO Y FRUTAS",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Queso blanco bajo grasa: 100g",
+      "Manzana verde: 1/2",
+      "Uva blanca: 80g",
+      "Limón fresco: 1/4",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Corta manzana en cubos.",
+    "motivational_text": "Placer real sin culpa posterior.",
+    "button_category": "Más energía",
+    "id": 42,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "MANZANA ASADA CON CANELA",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Manzana verde: 1 mediana",
+      "Canela en polvo: 1/4 cucharadita",
+      "Miel pura: 1 cucharadita",
+      "Agua: 50ml"
+    ],
+    "benefits": "",
+    "instructions": "Precalienta horno a 180°C. Pela manzana. Córtala por la mitad.",
+    "motivational_text": "Nutrición honesta para vida honesta.",
+    "button_category": "Más energía",
+    "id": 43,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TÉ VERDE CON LIMÓN Y MIEL",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Té verde: 1 bolsita",
+      "Agua caliente: 250ml",
+      "Limón fresco: 1/4",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua.",
+    "motivational_text": "Come tranquila. Tu cuerpo sabe qué hacer.",
+    "button_category": "Más energía",
+    "id": 44,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "PERA CON QUESO FRESCO",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Pera madura: 1 mediana",
+      "Queso fresco: 50g",
+      "Miel pura: 1 cucharadita",
+      "Nueces: 15g"
+    ],
+    "benefits": "",
+    "instructions": "Corta pera en cubos.",
+    "motivational_text": "Desayuno o merienda, comida de verdad.",
+    "button_category": "Más energía",
+    "id": 45,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "CAFÉ CON GALLETA DE AVENA",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Café expreso: 1 taza pequeña",
+      "Galleta de avena casera: 1 mediana",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Prepara café. Come galleta de avena lentamente junto con el café. Bebe muy despacio.",
+    "motivational_text": "Come con toda tu consciencia puesta.",
+    "button_category": "Más energía",
+    "id": 46,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "GELATINA DE FRUTAS SIN AZÚCAR",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Gelatina sin azúcar: 1 sobre",
+      "Agua: 300ml",
+      "Fresas: 60g",
+      "Frambuesas: 60g",
+      "Limón fresco: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Prepara gelatina sin azúcar según instrucciones. Corta frutas en trozos.",
+    "motivational_text": "Tu momento especial de alimentarte bien.",
+    "button_category": "Más energía",
+    "id": 47,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TÉ DE JENGIBRE CON MIEL",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Agua filtrada: 250ml",
+      "Jengibre fresco rallado: 1 cucharadita",
+      "Miel pura: 1 cucharada",
+      "Limón fresco: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua.",
+    "motivational_text": "Comida que te sostiene. Que te nutre. Que te ama.",
+    "button_category": "Más energía",
+    "id": 48,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "PLÁTANO CON MANTEQUILLA DE ALMENDRA",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Plátano: 1 mediano",
+      "Mantequilla de almendra: 2 cucharadas",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Pela plátano.",
+    "motivational_text": "Come y siente cómo todo mejora.",
+    "button_category": "Más energía",
+    "id": 49,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "UVAS CON QUESO DE CAMPO",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Uva verde fresca: 100g",
+      "Queso de campo: 50g",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Distribuye uvas en plato.",
+    "motivational_text": "Desayuno o merienda, tu ritual sagrado.",
+    "button_category": "Más energía",
+    "id": 50,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TÉ CON TOSTADA DE PAN INTEGRAL",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Té de hierbas: 250ml",
+      "Pan integral: 1 rebanada",
+      "Miel pura: 1 cucharada",
+      "Manteca sin sal: 5g"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua y prepara té de hierbas.",
+    "motivational_text": "Come lentamente. El tiempo es tuyo.",
+    "button_category": "Más energía",
+    "id": 51,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "FRUTILLA CON CHOCOLATE Y ALMENDRAS",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Fresas frescas: 80g",
+      "Chocolate puro 70%: 40g",
+      "Almendras tostadas: 25g",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Lava fresas.",
+    "motivational_text": "Nutrición que te honra.",
+    "button_category": "Más energía",
+    "id": 52,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "LICUADO DE FRUTAS ROJAS LIGHT",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Fresas frescas: 80g",
+      "Frambuesas frescas: 60g",
+      "Agua filtrada: 200ml",
+      "Limón fresco: 1/4",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Licúa fresas, frambuesas, agua, limón, hielo 2 minutos. Bebe lentamente.",
+    "motivational_text": "Comida para mujer que se ama.",
+    "button_category": "Más energía",
+    "id": 53,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "DURAZNO FRESCO CON QUESO",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Durazno maduro: 1 mediano",
+      "Queso fresco: 50g",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Pela durazno. Córtalo en trozos.",
+    "motivational_text": "Come sin miedo. Sin culpa. Con alegría.",
+    "button_category": "Más energía",
+    "id": 54,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TÉ NEGRO CON GALLETA INTEGRAL",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Té negro: 1 bolsita",
+      "Agua caliente: 250ml",
+      "Galleta integral casera: 1 mediana",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua.",
+    "motivational_text": "Desayuno o merienda, comida consciente.",
+    "button_category": "Más energía",
+    "id": 55,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "MANZANA RELLENA DE NUECES",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Manzana verde: 1 mediana",
+      "Nueces molidas: 40g",
+      "Miel pura: 1 cucharada",
+      "Canela: 1/4 cucharadita",
+      "Agua: 100ml"
+    ],
+    "benefits": "",
+    "instructions": "Precalienta horno a 180°C. Pela manzana. Haz un pequeño hueco en el centro.",
+    "motivational_text": "Tu cuerpo merece esto. Come tranquila.",
+    "button_category": "Más energía",
+    "id": 56,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "LICUADO DE MELÓN Y MENTA",
+    "type": "MERIENDA",
+    "ingredients": [
+      "Melón fresco: 200g",
+      "Agua filtrada: 150ml",
+      "Menta fresca: 5 hojas",
+      "Limón fresco: 1/4",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Corta melón en cubos. Licúa con agua, menta, limón, hielo 2 minutos. Bebe lentamente.",
+    "motivational_text": "Placer en cada bocado.",
+    "button_category": "Más energía",
+    "id": 57,
+    "category": "Desayuno / Merienda"
+  },
+  {
+    "name": "TARTA DE QUESO SIN HARINA",
+    "type": "POSTRE",
+    "ingredients": [
+      "Almendras molidas: 100g",
+      "Queso ricota: 200g",
+      "Huevos: 2",
+      "Miel pura: 3 cucharadas",
+      "Limón fresco: 1/2",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Base almendras proteína. Ricota densa. Tarta que sacia horas.",
+    "instructions": "Precalienta horno a 180°C.",
+    "motivational_text": "Tu antojo va a calmarse. Confía en la comida de verdad.",
+    "button_category": "Menos antojos",
+    "id": 58,
+    "category": "Postres"
+  },
+  {
+    "name": "BOMBONES DE CACAHUETE Y CHOCOLATE",
+    "type": "POSTRE",
+    "ingredients": [
+      "Mantequilla de cacahuete natural: 80g",
+      "Chocolate puro 70%: 100g",
+      "Miel pura: 1 cucharada",
+      "Coco rallado: 2 cucharadas"
+    ],
+    "benefits": "Cacahuete grasas saciantes. Chocolate. Bombones que no dejan hambre.",
+    "instructions": "Mezcla mantequilla de cacahuete con miel. Forma bolas.",
+    "motivational_text": "Sin culpa, sin remordimiento. Solo satisfacción honesta.",
+    "button_category": "Menos antojos",
+    "id": 59,
+    "category": "Postres"
+  },
+  {
+    "name": "GALLETITAS DE AVENA Y NUECES",
+    "type": "POSTRE",
+    "ingredients": [
+      "Avena sin gluten: 100g",
+      "Nueces molidas: 50g",
+      "Huevo: 1",
+      "Miel pura: 1 cucharada",
+      "Polvo de hornear: 1/4 cucharadita",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Avena avenina. Nueces omega-3. Galletas que sacian.",
+    "instructions": "Precalienta horno a 180°C.",
+    "motivational_text": "Esto va a saciar el vacío que sentís. Come lentamente.",
+    "button_category": "Menos antojos",
+    "id": 60,
+    "category": "Postres"
+  },
+  {
+    "name": "MOUSSE DE MENTA Y CHOCOLATE",
+    "type": "POSTRE",
+    "ingredients": [
+      "Chocolate puro 70%: 60g",
+      "Leche de almendras: 150ml",
+      "Hojas de menta fresca: 8",
+      "Miel pura: 1 cucharada",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Chocolate antioxidantes. Menta que relaja. Mousse digestivo.",
+    "instructions": "Calienta leche.",
+    "motivational_text": "Antojo calmado. Cuerpo nutrido. Mente tranquila.",
+    "button_category": "Menos antojos",
+    "id": 61,
+    "category": "Postres"
+  },
+  {
+    "name": "BARRAS DE CACAO Y DÁTILES",
+    "type": "POSTRE",
+    "ingredients": [
+      "Dátiles sin semilla: 100g",
+      "Cacao puro en polvo: 2 cucharadas",
+      "Almendras: 60g",
+      "Miel pura: 2 cucharadas",
+      "Aceite de coco: 15ml"
+    ],
+    "benefits": "Dátiles glucosa natural. Cacao antioxidantes. Barras muy nutritivas.",
+    "instructions": "Tritura dátiles y almendras juntos.",
+    "motivational_text": "Come despacio. Cada bocado cuenta. Tu ansiedad se va.",
+    "button_category": "Menos antojos",
+    "id": 62,
+    "category": "Postres"
+  },
+  {
+    "name": "PUDÍN DE SEMILLAS DE CHIA",
+    "type": "POSTRE",
+    "ingredients": [
+      "Semillas de chia: 3 cucharadas",
+      "Leche de almendras: 200ml",
+      "Miel pura: 1 cucharada",
+      "Vainilla natural: 1 gota",
+      "Frambuesas frescas: 50g"
+    ],
+    "benefits": "Chia grasas omega-3. Leche sin azúcar. Pudín super nutritivo.",
+    "instructions": "Mezcla chia con leche de almendras, miel, vainilla.",
+    "motivational_text": "No vas a querer más después. Porque esto es suficiente.",
+    "button_category": "Menos antojos",
+    "id": 63,
+    "category": "Postres"
+  },
+  {
+    "name": "FLAN DE CACAO Y CAFÉ",
+    "type": "POSTRE",
+    "ingredients": [
+      "Leche de almendras: 300ml",
+      "Huevos: 3",
+      "Cacao puro en polvo: 1 cucharada",
+      "Café espreso frío: 50ml",
+      "Miel pura: 2 cucharadas",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Cacao y café antioxidantes. Huevos proteína. Flan muy especial.",
+    "instructions": "Precalienta horno a 160°C. En licuadora, mezcla leche, huevos, cacao, café, miel, vainilla. Licúa 1 minuto.",
+    "motivational_text": "Dulce real para ánimo ansioso. Funciona de verdad.",
+    "button_category": "Menos antojos",
+    "id": 64,
+    "category": "Postres"
+  },
+  {
+    "name": "HELADO DE ARÁNDANOS CASERO",
+    "type": "POSTRE",
+    "ingredients": [
+      "Arándanos congelados: 150g",
+      "Yogur natural sin azúcar: 120ml",
+      "Miel pura: 1 cucharadita",
+      "Limón fresco: 1/4"
+    ],
+    "benefits": "Arándanos antocianinas neuroprotectoras. Yogur probióticos. Helado saludable.",
+    "instructions": "Licúa arándanos congelados, yogur, miel, limón 2 minutos. Debe quedar cremoso tipo helado. Sirve inmediatamente. Come lentamente en porción pequeña.",
+    "motivational_text": "Come sin prisa. El placer es en la masticación lenta.",
+    "button_category": "Menos antojos",
+    "id": 65,
+    "category": "Postres"
+  },
+  {
+    "name": "TIRAMISÚ CASERO BAJO CALORÍAS",
+    "type": "POSTRE",
+    "ingredients": [
+      "Queso ricota bajo grasa: 100g",
+      "Yogur natural sin azúcar: 100ml",
+      "Café espreso frío: 100ml",
+      "Cacao puro en polvo: 1 cucharada",
+      "Bizcochos integrales: 4 pequeños",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Ricota proteína. Café antioxidantes. Tiramisú sin culpa.",
+    "instructions": "Mezcla ricota, yogur, vainilla hasta cremosa. Moja bizcochos en café. En copa pequeña, alterna capas: ricota, bizcochos mojados.",
+    "motivational_text": "Tu ansia va a desaparecer. Esta comida lo promete.",
+    "button_category": "Menos antojos",
+    "id": 66,
+    "category": "Postres"
+  },
+  {
+    "name": "BARRAS DE GRANOLA ULTRA DENSA",
+    "type": "POSTRE",
+    "ingredients": [
+      "Avena sin gluten: 100g",
+      "Almendras crudas: 70g",
+      "Miel pura: 4 cucharadas",
+      "Aceite de coco: 40ml",
+      "Chocolate puro 70%: 60g",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Granola muy densa. Almendras grasas. Barras que sacian 6+ horas.",
+    "instructions": "Precalienta horno a 180°C.",
+    "motivational_text": "Satisfacción honesta sin consecuencias. Eso es lo importante.",
+    "button_category": "Menos antojos",
+    "id": 67,
+    "category": "Postres"
+  },
+  {
+    "name": "BOMBONES DE NUECES Y CACAO",
+    "type": "POSTRE",
+    "ingredients": [
+      "Nueces molidas: 100g",
+      "Cacao puro en polvo: 2 cucharadas",
+      "Miel pura: 2 cucharadas",
+      "Aceite de coco: 15ml",
+      "Chocolate puro 85%: 50g"
+    ],
+    "benefits": "Nueces grasas densas. Cacao. Bombones ultra saciantes.",
+    "instructions": "Mezcla nueces, cacao, miel, aceite. Forma bolas pequeñas.",
+    "motivational_text": "Come tranquila. Este postre no sabotea tu bienestar.",
+    "button_category": "Menos antojos",
+    "id": 68,
+    "category": "Postres"
+  },
+  {
+    "name": "TARTA DE ALMENDRA Y ARÁNDANOS",
+    "type": "POSTRE",
+    "ingredients": [
+      "Almendras molidas: 120g",
+      "Arándanos frescos: 100g",
+      "Huevos: 2",
+      "Miel pura: 2 cucharadas",
+      "Aceite de coco: 25ml",
+      "Polvo de hornear: 1/4 cucharadita"
+    ],
+    "benefits": "Almendras densas. Arándanos antioxidantes. Tarta que sacia.",
+    "instructions": "Precalienta horno a 180°C.",
+    "motivational_text": "Antojo controlado con verdadera nutrición. Doble victoria.",
+    "button_category": "Menos antojos",
+    "id": 69,
+    "category": "Postres"
+  },
+  {
+    "name": "PUDÍN DE MANTEQUILLA DE ALMENDRA Y CACAO",
+    "type": "POSTRE",
+    "ingredients": [
+      "Mantequilla de almendra: 3 cucharadas",
+      "Cacao puro en polvo: 1 cucharada",
+      "Leche de almendras: 180ml",
+      "Miel pura: 1 cucharada",
+      "Vainilla natural: 1 gota",
+      "Hielo: 1 cubito"
+    ],
+    "benefits": "Almendra mantequilla grasas densas. Cacao. Pudín que no deja hambre.",
+    "instructions": "Licúa mantequilla de almendra, cacao, leche, miel, vainilla, hielo 2 minutos. Debe ser muy cremoso.",
+    "motivational_text": "Sin atracón después. Porque la satisfacción es completa.",
+    "button_category": "Menos antojos",
+    "id": 70,
+    "category": "Postres"
+  },
+  {
+    "name": "BROWNIES DE AVELLANAS",
+    "type": "OTRO",
+    "ingredients": [
+      "Chocolate puro 85%: 120g",
+      "Avellanas molidas: 100g",
+      "Huevos: 3",
+      "Miel pura: 2 cucharadas",
+      "Aceite de coco: 45ml",
+      "Polvo de hornear: 1/2 cucharadita"
+    ],
+    "benefits": "Avellanas grasas potentes. Chocolate. Brownies ultra densos.",
+    "instructions": "Precalienta horno a 180°C.",
+    "motivational_text": "Come lentamente. Este postre merece ser degustado.",
+    "button_category": "Más energía",
+    "id": 71,
+    "category": "OTRO"
+  },
+  {
+    "name": "MOUSSE DE CACAHUETE MUY DENSA",
+    "type": "POSTRE",
+    "ingredients": [
+      "Mantequilla de cacahuete natural: 100g",
+      "Chocolate puro 70%: 50g",
+      "Leche de almendras: 150ml",
+      "Miel pura: 1 cucharada",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Cacahuete grasas ultra saciantes. Chocolate. Mousse muy denso.",
+    "instructions": "Derrite chocolate en baño de agua.",
+    "motivational_text": "Tu ansiedad no es debilidad. Es tu cuerpo pidiendo nutrición.",
+    "button_category": "Menos antojos",
+    "id": 72,
+    "category": "Postres"
+  },
+  {
+    "name": "GALLETAS DE COCO Y ALMENDRA",
+    "type": "POSTRE",
+    "ingredients": [
+      "Coco rallado sin azúcar: 80g",
+      "Almendras molidas: 70g",
+      "Huevo: 1",
+      "Miel pura: 1 cucharada",
+      "Polvo de hornear: 1/4 cucharadita",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Coco grasas densas. Almendras proteína. Galletas muy saciantes.",
+    "instructions": "Precalienta horno a 180°C.",
+    "motivational_text": "Esto va a calmar el impulso. Come y espera. Funciona.",
+    "button_category": "Menos antojos",
+    "id": 73,
+    "category": "Postres"
+  },
+  {
+    "name": "HELADO DE PLÁTANO Y MANTEQUILLA DE MANÍ",
+    "type": "POSTRE",
+    "ingredients": [
+      "Banana congelada: 2 medianas",
+      "Mantequilla de maní: 2 cucharadas",
+      "Leche de almendras: 100ml",
+      "Miel pura: 1 cucharadita",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Banana triptófano. Maní grasas densas. Helado que no deja hambre.",
+    "instructions": "Licúa bananas congeladas con mantequilla de maní, leche, miel, vainilla 2 minutos. Debe ser cremoso tipo helado. Sirve inmediatamente. Come lentamente.",
+    "motivational_text": "Placer que respeta tu bienestar. Eso es este postre.",
+    "button_category": "Menos antojos",
+    "id": 74,
+    "category": "Postres"
+  },
+  {
+    "name": "GELATINA DE TÉ VERDE CON LIMÓN",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Gelatina sin azúcar: 1 sobre",
+      "Agua con té verde: 300ml",
+      "Limón fresco: 1/2",
+      "Menta fresca: 5 hojas"
+    ],
+    "benefits": "",
+    "instructions": "Prepara té verde con agua tibia. Deja infusionar 3-4 minutos. Cuela.",
+    "motivational_text": "Come con libertad. Sin culpa. Sin remordimiento.",
+    "button_category": "Más energía",
+    "id": 75,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "MOUSSE DE FRAMBUESA LIGHT",
+    "type": "POSTRE",
+    "ingredients": [
+      "Frambuesas frescas: 100g",
+      "Yogur natural sin azúcar: 120ml",
+      "Limón fresco: 1/4",
+      "Hielo: 1 cubito"
+    ],
+    "benefits": "Frambuesas pocas calorías. Yogur probióticos. Mousse que no engorda.",
+    "instructions": "Licúa frambuesas, yogur, limón, hielo 2 minutos. Debe quedar cremoso.",
+    "motivational_text": "Antojo satisfecho. Ansía calmada. Cuerpo tranquilo.",
+    "button_category": "Menos antojos",
+    "id": 76,
+    "category": "Postres"
+  },
+  {
+    "name": "HELADO DE MELÓN Y LIMA",
+    "type": "POSTRE",
+    "ingredients": [
+      "Melón congelado en cubos: 150g",
+      "Yogur natural sin azúcar: 100ml",
+      "Limón fresco: 1/4",
+      "Menta fresca: 3 hojas"
+    ],
+    "benefits": "Melón pocas calorías. Yogur probióticos. Helado refrescante sin culpa.",
+    "instructions": "Licúa melón congelado, yogur, limón, menta 2 minutos. Debe ser cremoso. Sirve inmediatamente. Come lentamente.",
+    "motivational_text": "Chocolate real, frutas reales, tu cuerpo real. En armonía.",
+    "button_category": "Menos antojos",
+    "id": 77,
+    "category": "Postres"
+  },
+  {
+    "name": "GELATINA DE FRUTAS ROJAS",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Gelatina sin azúcar: 1 sobre",
+      "Agua: 300ml",
+      "Fresas: 60g",
+      "Frambuesas: 60g",
+      "Limón fresco: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Prepara gelatina sin azúcar según instrucciones. Corta frutas en trozos.",
+    "motivational_text": "Come lentamente. El verdadero dulce que necesitás.",
+    "button_category": "Más energía",
+    "id": 78,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "LICUADO DE SANDÍA Y FRESA",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Sandía fresca: 150g",
+      "Fresas frescas: 80g",
+      "Agua filtrada: 150ml",
+      "Limón fresco: 1/4",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "Frutas frescas pocas calorías. Agua que hidrata. Licuado super light.",
+    "instructions": "Corta sandía en cubos. Licúa con fresas, agua, limón, hielo 2 minutos. Bebe lentamente.",
+    "motivational_text": "Sin antojos posteriores. Porque esto cierra el círculo.",
+    "button_category": "Más energía",
+    "id": 79,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "MOUSSES DE MANGO Y COCO LIGHT",
+    "type": "POSTRE",
+    "ingredients": [
+      "Mango fresco: 150g",
+      "Leche de coco light: 100ml",
+      "Limón fresco: 1/4",
+      "Hielo: 1 cubito"
+    ],
+    "benefits": "Mango vitaminas. Coco light sin exceso. Mousse tropical light.",
+    "instructions": "Corta mango en cubos. Licúa con leche de coco light, limón, hielo 2 minutos.",
+    "motivational_text": "Tu antojo es válido. Dale a tu cuerpo comida de verdad.",
+    "button_category": "Menos antojos",
+    "id": 80,
+    "category": "Postres"
+  },
+  {
+    "name": "SORBETE DE PIÑA NATURAL",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Piña congelada en cubos: 150g",
+      "Agua filtrada: 100ml",
+      "Limón fresco: 1/4",
+      "Menta fresca: 3 hojas"
+    ],
+    "benefits": "Piña bromelaina enzima digestiva. Pocas calorías. Sorbete very light.",
+    "instructions": "Licúa piña congelada, agua, limón, menta 2 minutos. Sirve inmediatamente. Come lentamente.",
+    "motivational_text": "Mastica lentamente. Cada bocado es placer y nutrición.",
+    "button_category": "Más energía",
+    "id": 81,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "GELATINA DE NARANJA SIN AZÚCAR",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Gelatina sin azúcar sabor naranja: 1 sobre",
+      "Agua: 300ml",
+      "Limón fresco: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Prepara gelatina sin azúcar según instrucciones.",
+    "motivational_text": "Ansía calmada es libertad. Este postre es libertad.",
+    "button_category": "Más energía",
+    "id": 82,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "BATIDO DE FRESA MUY LIGHT",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Fresas frescas: 100g",
+      "Agua filtrada: 200ml",
+      "Limón fresco: 1/4",
+      "Hielo: 2 cubitos"
+    ],
+    "benefits": "Fresas pocas calorías. Agua que hidrata. Batido ultra light.",
+    "instructions": "Licúa fresas, agua, limón, hielo 2 minutos. Bebe lentamente.",
+    "motivational_text": "Come sin prisa. Sin estrés. Solo tú y tu postre.",
+    "button_category": "Más energía",
+    "id": 83,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "COMPOTA DE DURAZNOS CASERA",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Duraznos frescos: 300g",
+      "Agua filtrada: 150ml",
+      "Miel pura: 1 cucharadita",
+      "Canela: 1/4 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "Duraznos pectina suave. Agua que hidrata. Compota muy digestiva.",
+    "instructions": "Pela duraznos. Córtalos en cubos.",
+    "motivational_text": "Este postre es diferente. Pruébalo y siente la diferencia.",
+    "button_category": "Más energía",
+    "id": 84,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "GELATINA DE MANZANA COCIDA",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Gelatina sin azúcar: 1 sobre",
+      "Agua con manzana cocida: 300ml",
+      "Canela: 1/4 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Cocina manzana verde en agua 10 minutos. Cuela.",
+    "motivational_text": "Sin atracón. Sin culpa. Sin consecuencias negativas.",
+    "button_category": "Más energía",
+    "id": 85,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "PUDÍN DE PERA SUAVE",
+    "type": "POSTRE",
+    "ingredients": [
+      "Peras cocidas: 200g",
+      "Leche de almendras: 150ml",
+      "Miel pura: 1 cucharadita",
+      "Vainilla natural: 1 gota",
+      "Canela: 1/4 cucharadita"
+    ],
+    "benefits": "Pera pectina digestiva. Leche suave. Pudín muy light.",
+    "instructions": "Cocina peras en agua hasta blandas.",
+    "motivational_text": "Antojo vanquished por nutrición real. Eso es la magia.",
+    "button_category": "Menos antojos",
+    "id": 86,
+    "category": "Postres"
+  },
+  {
+    "name": "BIZCOCHO DE PLÁTANO MUY SUAVE",
+    "type": "OTRO",
+    "ingredients": [
+      "Banana madura: 2",
+      "Huevos: 2",
+      "Harina integral: 70g",
+      "Miel pura: 1 cucharada",
+      "Polvo de hornear: 1/2 cucharadita",
+      "Aceite de coco: 15ml"
+    ],
+    "benefits": "Banana pectina. Harina integral suave. Bizcocho muy digerible.",
+    "instructions": "Precalienta horno a 180°C.",
+    "motivational_text": "Come tranquila. Tu ansiedad va a calmarse en minutos.",
+    "button_category": "Más energía",
+    "id": 87,
+    "category": "OTRO"
+  },
+  {
+    "name": "TÉ DE MANZANILLA CON MELÓN",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Agua filtrada: 250ml",
+      "Flores de manzanilla fresca: 3",
+      "Melón fresco: 100g",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua.",
+    "motivational_text": "Postres que piensan en vos. En tu bienestar. En tu paz.",
+    "button_category": "Más energía",
+    "id": 88,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "COMPOTA DE CIRUELA CASERA",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Ciruelas frescas: 250g",
+      "Agua filtrada: 150ml",
+      "Miel pura: 1 cucharadita",
+      "Canela: 1/4 cucharadita"
+    ],
+    "benefits": "Ciruela pectina digestiva. Agua que hidrata. Compota laxante suave.",
+    "instructions": "Corta ciruelas en cubos.",
+    "motivational_text": "Come lentamente. Deja que tu cuerpo registre satisfacción.",
+    "button_category": "Más energía",
+    "id": 89,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "FLAN DE MANZANA SUAVE",
+    "type": "POSTRE",
+    "ingredients": [
+      "Manzana verde cocida: 150g",
+      "Leche de almendras: 200ml",
+      "Huevos: 2",
+      "Miel pura: 1 cucharada",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Manzana pectina suave. Leche digestiva. Flan muy light.",
+    "instructions": "Precalienta horno a 160°C. En licuadora, mezcla manzana, leche, huevos, miel, vainilla. Licúa 1 minuto.",
+    "motivational_text": "Ansía desaparece cuando comes comida de verdad.",
+    "button_category": "Menos antojos",
+    "id": 90,
+    "category": "Postres"
+  },
+  {
+    "name": "SORBETE DE MANZANA MUY LIGHT",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Manzana verde congelada: 150g",
+      "Agua filtrada: 100ml",
+      "Limón fresco: 1/4",
+      "Canela: una pizca"
+    ],
+    "benefits": "Manzana pectina. Agua que hidrata. Sorbete muy digestivo.",
+    "instructions": "Licúa manzana congelada, agua, limón, canela 2 minutos. Sirve inmediatamente. Come lentamente. Muy light.",
+    "motivational_text": "Este postre es acto de amor hacia vos misma.",
+    "button_category": "Más energía",
+    "id": 91,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "GELATINA DE PERA SIN AZÚCAR",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Gelatina sin azúcar: 1 sobre",
+      "Agua con pera cocida: 300ml",
+      "Miel pura: 1 cucharadita",
+      "Canela: 1/4 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Cocina pera en agua 15 minutos. Cuela.",
+    "motivational_text": "Come sin culpa. Porque esto merece celebrarse.",
+    "button_category": "Más energía",
+    "id": 92,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "TÉ DE PASIFLORA CON COMPOTA DE DURAZNO",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Agua filtrada: 350ml",
+      "Pasiflora seca: 1 cucharadita",
+      "Duraznos cocidos: 100g",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua.",
+    "motivational_text": "Antojo controlado es poder. Este postre te lo da.",
+    "button_category": "Más energía",
+    "id": 93,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "LECHE DE ALMENDRAS CON AVENA NOCTURNA",
+    "type": "POSTRE",
+    "ingredients": [
+      "Leche de almendras: 250ml",
+      "Avena sin gluten: 40g",
+      "Miel pura: 1 cucharada",
+      "Canela: 1/4 cucharadita",
+      "Vainilla natural: 2 gotas"
+    ],
+    "benefits": "",
+    "instructions": "Calienta leche de almendras a fuego bajo.",
+    "motivational_text": "Come y siente cómo el estrés se disuelve.",
+    "button_category": "Menos antojos",
+    "id": 94,
+    "category": "Postres"
+  },
+  {
+    "name": "MOUSSES DE PLÁTANO Y CACAO",
+    "type": "POSTRE",
+    "ingredients": [
+      "Plátano maduro: 1",
+      "Cacao puro en polvo: 1 cucharada",
+      "Leche de almendras: 180ml",
+      "Miel pura: 1 cucharadita",
+      "Vainilla natural: 1 gota",
+      "Hielo: 1 cubito"
+    ],
+    "benefits": "Plátano triptófano sedante. Cacao que relaja. Mousse relajante.",
+    "instructions": "Pela plátano. Licúa con cacao, leche, miel, vainilla, hielo 2 minutos.",
+    "motivational_text": "Sin remordimiento después. Promesa garantizada.",
+    "button_category": "Menos antojos",
+    "id": 95,
+    "category": "Postres"
+  },
+  {
+    "name": "COMPOTA DE PERA CON VAINILLA",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Peras maduras: 300g",
+      "Agua filtrada: 150ml",
+      "Miel pura: 1 cucharadita",
+      "Vainilla natural: 1 gota",
+      "Canela: 1/4 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Pela y corta peras.",
+    "motivational_text": "Dulce pero inteligente. Postres que respetan tu cuerpo.",
+    "button_category": "Más energía",
+    "id": 96,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "TÉ DE VALERIANA CON BANANA COCIDA",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Agua filtrada: 350ml",
+      "Raíz de valeriana: 1 cucharadita",
+      "Banana cocida: 80g",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "Valeriana sedante herbal. Banana triptófano. Combinación muy relajante.",
+    "instructions": "Calienta agua.",
+    "motivational_text": "Come lentamente. La satisfacción es el verdadero dulce.",
+    "button_category": "Más energía",
+    "id": 97,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "BATIDO DE MANZANA TIBIA CON MIEL",
+    "type": "POSTRE",
+    "ingredients": [
+      "Manzana verde cocida: 150g",
+      "Leche de almendras tibia: 200ml",
+      "Miel pura: 1 cucharadita",
+      "Canela: 1/4 cucharadita",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Manzana que relaja. Leche tibia sedante. Batido reconfortante.",
+    "instructions": "Cocina manzana. Licúa con leche tibia, miel, canela, vainilla. Bebe tibia lentamente. Muy reconfortante y calmante.",
+    "motivational_text": "Ansiedad calmada. Cuerpo nutrido. Mente libre.",
+    "button_category": "Menos antojos",
+    "id": 98,
+    "category": "Postres"
+  },
+  {
+    "name": "GELATINA DE TÉ DE VALERIANA",
+    "type": "BEBIDA",
+    "ingredients": [
+      "Gelatina sin azúcar: 1 sobre",
+      "Agua con té de valeriana: 300ml",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Prepara té de valeriana con agua tibia.",
+    "motivational_text": "Este postre no te traiciona. Come tranquila.",
+    "button_category": "Más energía",
+    "id": 99,
+    "category": "BEBIDA"
+  },
+  {
+    "name": "FLAN DE VAINILLA MUY SUAVE",
+    "type": "POSTRE",
+    "ingredients": [
+      "Leche de almendras: 300ml",
+      "Huevos: 2",
+      "Miel pura: 2 cucharadas",
+      "Vainilla natural: 2 gotas",
+      "Canela: 1/4 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Precalienta horno a 160°C. En licuadora, mezcla leche, huevos, miel, vainilla, canela. Licúa 1 minuto.",
+    "motivational_text": "Antojo satisfecho sin culpa. Eso es lo que buscabas.",
+    "button_category": "Menos antojos",
+    "id": 100,
+    "category": "Postres"
+  },
+  {
+    "name": "MOUSSE DE MANZANA Y ESPECIAS",
+    "type": "POSTRE",
+    "ingredients": [
+      "Manzana verde cocida: 150g",
+      "Leche de almendras: 150ml",
+      "Miel pura: 1 cucharadita",
+      "Canela: 1/4 cucharadita",
+      "Jengibre rallado: 1 pizca"
+    ],
+    "benefits": "",
+    "instructions": "Cocina manzana. Licúa con leche de almendras, miel, canela, jengibre 2 minutos.",
+    "motivational_text": "Come despacio. Mastica bien. Cada bocado es tesoro.",
+    "button_category": "Menos antojos",
+    "id": 101,
+    "category": "Postres"
+  },
+  {
+    "name": "MERLUZA AL HORNO CON ZAPALLO",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Filete de merluza: 200g",
+      "Zapallo: 150g",
+      "Cebolla blanca: 1/4",
+      "Ajo: 2 dientes",
+      "Aceite de oliva: 15ml",
+      "Limón: 1/2",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Merluza proteína pura de fácil digestión. Zapallo aporta betacaroteno y vitaminas. Cebolla y ajo amplían absorción de nutrientes.",
+    "instructions": "Precalienta horno a 190°C durante 5 minutos. Pela zapallo. Córtalo en cubos de 2cm. Pica cebolla en cubitos medianos. Pica ajo fino. En bandeja de horno, distribuye zapallo y cebolla. Rocía con 10ml de aceite de oliva.",
+    "motivational_text": "Tu cuerpo es sabio. Dale los nutrientes que necesita y mirá cómo responde.",
+    "button_category": "Más energía",
+    "id": 102,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "CARNE MOLIDA CON BRÓCOLI Y ARROZ INTEGRAL",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Carne molida magra: 150g",
+      "Brócoli fresco: 150g",
+      "Arroz integral: 60g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Tomate fresco: 80g",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Carne molida hierro hemo real de máxima absorción. Brócoli sulforafano potente. Arroz integral fibra soluble que estabiliza glucosa.",
+    "instructions": "Cocina arroz integral 20 minutos según instrucciones del paquete. Resérvalo. Corta brócoli en florcitas de 4-5cm.",
+    "motivational_text": "Cada bocado es un acto de amor hacia vos misma. Sentí cómo tu cuerpo se recompone.",
+    "button_category": "Más energía",
+    "id": 103,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "HUEVOS REVUELTOS CON ESPINACA Y QUESO",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Huevos orgánicos: 3 grandes",
+      "Espinaca fresca: 100g",
+      "Queso de campo rallado: 30g",
+      "Cebolla blanca: 1/4 pequeña",
+      "Aceite de oliva: 10ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "",
+    "instructions": "Lava espinaca fresca. Córtala en tiras medianas. Pica cebolla en cubitos muy pequeños.",
+    "motivational_text": "No es solo comida, es medicina. Preparala con consciencia y recibila con gratitud.",
+    "button_category": "Más energía",
+    "id": 104,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "ATÚN ENLATADO CON VEGETALES CRUDOS Y LIMÓN",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Atún en lata en agua: 150g",
+      "Zanahoria: 100g",
+      "Pepino: 80g",
+      "Tomate cherry: 80g",
+      "Cebolla roja: 1/4 pequeña",
+      "Limón fresco: 1",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Atún enlatado omega-3 accesible y económico. Vegetales crudos enzimas vivas. Limón amplía absorción de hierro.",
+    "instructions": "Ralla zanahoria con rallador fino. Pela pepino y córtalo en cubitos de 1cm. Corta tomates cherry a la mitad. Pica cebolla roja en cubitos pequeños.",
+    "motivational_text": "Tu energía es tu poder. Alimentalo con lo mejor que tenés.",
+    "button_category": "Más energía",
+    "id": 105,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "POLLO GUISADO CON PAPAS Y ZANAHORIAS",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Pechuga de pollo: 180g",
+      "Papas medianas: 150g",
+      "Zanahoria: 100g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Caldo casero: 250ml",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "",
+    "instructions": "Corta pollo en cubos de 2cm. Pela papas y córtalas en cubos de 1,5cm. Pela zanahoria y córtala en rodajas de 0,5cm. Pica cebolla en cubitos. Pica ajo fino.",
+    "motivational_text": "Merecés vivir con toda tu potencia. Este plato te lo devuelve.",
+    "button_category": "Más energía",
+    "id": 106,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "CABALLA AL HORNO CON TOMATE Y CEBOLLA",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Filetes de caballa: 200g",
+      "Tomate fresco: 150g",
+      "Cebolla blanca: 1 mediana",
+      "Ajo: 3 dientes",
+      "Aceite de oliva: 15ml",
+      "Limón: 1/2",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "",
+    "instructions": "Precalienta horno a 190°C. Corta tomate en rodajas de 0,5cm. Corta cebolla en medias lunas finas. Pica ajo en láminas. En bandeja de horno, coloca mitad de cebolla cruda como base.",
+    "motivational_text": "Sabés qué es lo mejor? Que vos misma estás eligiendo sanar. Eso ya es fortaleza.",
+    "button_category": "Más energía",
+    "id": 107,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "LENTEJAS VERDES CON VEGETALES",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Lentejas verdes secas: 80g",
+      "Zanahoria: 80g",
+      "Cebolla: 50g",
+      "Apio: 50g",
+      "Ajo: 1 diente",
+      "Caldo vegetal: 300ml",
+      "Aceite de oliva: 12ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Lentejas verdes proteína vegetal completa y más firme que rojas. Zanahoria betacaroteno. Apio minerales que alcalinizan.",
+    "instructions": "Corta zanahoria en cubos de 0,5cm. Corta cebolla en cubitos. Corta apio en rodajas finas. Pica ajo.",
+    "motivational_text": "Tu cuerpo te pide nutrición real. Dale esto y escuchá cómo te agradece.",
+    "button_category": "Más energía",
+    "id": 108,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "MILANESAS DE POLLO CON ENSALADA DE RÚCULA",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Pechugas de pollo: 2 pequeñas",
+      "Huevo: 1",
+      "Pan integral rallado: 40g",
+      "Rúcula fresca: 150g",
+      "Tomate: 80g",
+      "Cebolla roja: 1/4",
+      "Limón: 1",
+      "Aceite de oliva: 20ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Milanesas proteína crujiente y sabrosa. Rúcula glucosinolatos antiinflamatorios potentes. Tomate licopeno protector.",
+    "instructions": "Coloca pechugas de pollo entre plástico.",
+    "motivational_text": "",
+    "button_category": "Más energía",
+    "id": 109,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "GARBANZOS GUISADOS CON CEBOLLA Y TOMATE",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Garbanzos cocidos: 200g",
+      "Cebolla mediana: 1",
+      "Tomate fresco: 150g",
+      "Ajo: 2 dientes",
+      "Caldo vegetal: 200ml",
+      "Aceite de oliva: 15ml",
+      "Comino: 1/4 cucharadita",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Garbanzos proteína vegetal completa con fibra. Tomate licopeno. Comino facilita digestión y absorción.",
+    "instructions": "Pica cebolla en cubitos medianos. Pica tomate en cubos pequeños. Pica ajo fino.",
+    "motivational_text": "Sos más fuerte de lo que creés. Este plato te lo va a demostrar.",
+    "button_category": "Más energía",
+    "id": 110,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "CARNE MOLIDA RELLENO DE VEGETALES",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Carne molida magra: 150g",
+      "Berenjena: 200g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Tomate fresco: 100g",
+      "Queso de campo: 20g",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Carne molida hierro hemo. Berenjena antioxidantes potentes. Queso calcio biodisponible.",
+    "instructions": "Precalienta horno a 190°C. Corta berenjena en rodajas de 0,5cm longitudinales. Pica cebolla y ajo finos. Pica tomate en cubos.",
+    "motivational_text": "Preparate esto como si fuera para alguien que amás. Porque vos también te mereces ese amor.",
+    "button_category": "Más energía",
+    "id": 111,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "SOPA DE VERDURAS CON FIDEOS INTEGRALES",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Caldo vegetal: 500ml",
+      "Zanahoria: 80g",
+      "Cebolla: 50g",
+      "Apio: 50g",
+      "Tomate fresco: 80g",
+      "Fideos integrales cortos: 40g",
+      "Ajo: 1 diente",
+      "Aceite de oliva: 10ml",
+      "Sal marina y perejil fresco: al gusto"
+    ],
+    "benefits": "Caldo vegetal base mineral. Vegetales variados nutrientes diversos. Fideos integrales fibra soluble.",
+    "instructions": "Corta zanahoria en cubos de 0,5cm. Pica cebolla en cubitos. Corta apio en rodajas. Pica tomate en cubos pequeños. Pica ajo.",
+    "motivational_text": "La energía que te falta no es culpa tuya. Es solo que necesitás nutrientes de verdad.",
+    "button_category": "Más energía",
+    "id": 112,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "POLLO A LA CACEROLA CON PAPAS",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Muslo de pollo: 180g",
+      "Papas: 150g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Tomate fresco: 100g",
+      "Caldo casero: 250ml",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Pollo muslo más jugoso y sabroso que pechuga. Papas hidratos complejos. Tomate licopeno cardioprotector.",
+    "instructions": "Corta pollo en trozos medianos. Pela papas y córtalas en cubos de 2cm. Pica cebolla. Pica ajo. Pica tomate.",
+    "motivational_text": "Sentite capaz. Porque lo sos. Y esta comida te va a recordar por qué.",
+    "button_category": "Más energía",
+    "id": 113,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "HUEVOS AL HORNO CON ESPINACA",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Huevos: 2 grandes",
+      "Espinaca fresca: 80g",
+      "Crema de verduras: 50ml",
+      "Queso de campo: 20g",
+      "Aceite de oliva: 10ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Huevos colina. Espinaca hierro. Crema vegetal grasas que absorben vitaminas liposolubles.",
+    "instructions": "Precalienta horno a 180°C. Lava y corta espinaca en tiras medianas.",
+    "motivational_text": "Tu cuerpo responde a lo que le das. Dale calidad y mirá la diferencia.",
+    "button_category": "Más energía",
+    "id": 114,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "MERLUZA AL VAPOR CON LIMÓN Y HIERBAS",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Filete de merluza: 200g",
+      "Limón fresco: 1",
+      "Perejil fresco: 10g",
+      "Tomillo fresco: 3 ramas",
+      "Cebolla: 1/4 pequeña",
+      "Aceite de oliva: 10ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Merluza al vapor preserva máximos nutrientes. Limón vitamina C. Hierbas amplían absorción.",
+    "instructions": "Corta cebolla en rodajas muy finas. Lava perejil y tomillo. En una olla con vapor (o colador sobre agua hirviendo), coloca cebolla como base.",
+    "motivational_text": "No es vanidad cuidarte así. Es respeto por vos misma.",
+    "button_category": "Más energía",
+    "id": 115,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "POROTOS NEGROS GUISADOS",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Porotos negros cocidos: 200g",
+      "Cebolla mediana: 1",
+      "Tomate fresco: 150g",
+      "Ajo: 2 dientes",
+      "Caldo vegetal: 200ml",
+      "Aceite de oliva: 15ml",
+      "Comino: 1/4 cucharadita",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Porotos negros proteína vegetal completa con antocianinas. Tomate licopeno. Comino facilita digestión.",
+    "instructions": "Pica cebolla en cubitos medianos. Pica tomate en cubos. Pica ajo fino.",
+    "motivational_text": "La fortaleza que buscás empieza en tu plato. Hoy es el primer día.",
+    "button_category": "Más energía",
+    "id": 116,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "CARNE MOLIDA CON CALABACÍN A LA SARTÉN",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Carne molida magra: 150g",
+      "Calabacín: 200g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Tomate fresco: 80g",
+      "Aceite de oliva: 15ml",
+      "Orégano seco: 1/4 cucharadita",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Carne molida hierro hemo. Calabacín bajo en calorías pero nutritivo. Orégano antioxidantes potentes.",
+    "instructions": "Corta calabacín en medias lunas de 0,5cm. Pica cebolla. Pica ajo. Pica tomate en cubos pequeños.",
+    "motivational_text": "Vos tenés todo lo que necesitás adentro. Este plato solo lo despierta.",
+    "button_category": "Más energía",
+    "id": 117,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "FIDEOS INTEGRALES CON SALSA DE TOMATE CASERA",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Fideos integrales secos: 80g",
+      "Tomate fresco: 250g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Aceite de oliva: 15ml",
+      "Orégano seco: 1/4 cucharadita",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Fideos integrales fibra soluble. Tomate fresco licopeno máximo. Ajo alicina antiinflamatoria.",
+    "instructions": "Cocina fideos integrales según tiempo del paquete (aprox 10 minutos).",
+    "motivational_text": "Comer bien es un acto revolucionario. Vos estás revolucionando tu vida.",
+    "button_category": "Más energía",
+    "id": 118,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "ENSALADA DE GARBANZOS CON VEGETALES",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Garbanzos cocidos: 180g",
+      "Tomate cherry: 100g",
+      "Pepino: 80g",
+      "Cebolla roja: 1/4",
+      "Perejil fresco: 10g",
+      "Limón fresco: 1",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Garbanzos proteína vegetal completa. Vegetales crudos enzimas vivas. Limón amplía absorción de hierro.",
+    "instructions": "Corta tomates cherry a la mitad. Pela pepino y córtalo en cubitos. Pica cebolla roja en cubitos pequeños. Pica perejil.",
+    "motivational_text": "Tu energía es tu brillo. Y merecés brillar todos los días.",
+    "button_category": "Más energía",
+    "id": 119,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "BRÓCOLI A LA MANTECA CON AJO",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Brócoli fresco: 300g",
+      "Manteca sin sal: 20g",
+      "Ajo: 4 dientes",
+      "Limón fresco: 1/2",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Brócoli sulforafano potentísimo. Manteca vitaminas A, D, K2. Ajo alicina que potencia inmunidad.",
+    "instructions": "Retira brócoli en florcitas de 5cm cada una. Pela ajo y córtalo en láminas finas. En una olla con agua hirviendo con sal, cocina brócoli 8-10 minutos hasta que esté tierno pero crujiente.",
+    "motivational_text": "No te rindas. Tu cuerpo está a punto de sorprenderte.",
+    "button_category": "Más energía",
+    "id": 120,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "FILETE DE POLLO RELLENO DE QUESO Y TOMATE",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Pechuga de pollo: 180g",
+      "Queso de campo: 30g",
+      "Tomate fresco: 50g",
+      "Cebolla: 1/4",
+      "Ajo: 1 diente",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Pollo proteína magra. Queso calcio biodisponible. Tomate licopeno cardioprotector.",
+    "instructions": "Coloca pechuga entre plástico.",
+    "motivational_text": "Tu mente merece claridad. Este plato es para recuperar tu brillo.",
+    "button_category": "Más energía",
+    "id": 121,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "ARROZ INTEGRAL CON VEGETALES SALTEADOS",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Arroz integral: 80g",
+      "Zanahoria: 80g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Agua filtrada: 200ml",
+      "Aceite de oliva: 15ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Arroz integral fibra soluble. Zanahoria betacaroteno. Vegetales variados nutrientes diversos.",
+    "instructions": "Lava arroz integral bajo agua fría. Corta zanahoria en cubitos de 0,5cm. Pica cebolla. Pica ajo.",
+    "motivational_text": "La niebla mental no es para siempre. Alimentá tu cerebro con lo que realmente necesita.",
+    "button_category": "Más energía",
+    "id": 122,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "CALDO DE POLLO CASERO CON VERDURAS",
+    "type": "ENERGÍA",
+    "ingredients": [
+      "Pechuga de pollo: 150g",
+      "Zanahoria: 100g",
+      "Cebolla: 80g",
+      "Apio: 60g",
+      "Ajo: 2 dientes",
+      "Agua filtrada: 800ml",
+      "Perejil fresco: 1 ramita",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Caldo de pollo gelatina que nutre intestino. Vegetales minerales. Fácil de digerir.",
+    "instructions": "Corta pollo en trozos. Pela zanahoria y córtala en rodajas. Corta cebolla en cuartos. Corta apio en trozos grandes. Pela ajo. En una olla, coloca agua filtrada.",
+    "motivational_text": "Vos seguís siendo vos. A veces solo necesitás que tu mente se despeje.",
+    "button_category": "Más energía",
+    "id": 123,
+    "category": "ENERGÍA"
+  },
+  {
+    "name": "SOPA DE MISO CON VEGETALES",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Caldo de pollo casero: 500ml",
+      "Pasta de miso rojo: 1 cucharada",
+      "Zanahoria: 80g",
+      "Cebolla: 50g",
+      "Calabacín: 80g",
+      "Ajo: 1 diente",
+      "Agua filtrada: 50ml",
+      "Aceite de sésamo: 5ml"
+    ],
+    "benefits": "Miso probióticos para eje intestino-cerebro. Vegetales variados nutrientes para cognición. Sésamo lecitina cerebral.",
+    "instructions": "Calienta caldo de pollo a fuego medio-bajo. NO que hierva (esto destruye probióticos). Corta zanahoria en cubitos de 0,5cm. Corta cebolla en cubitos. Corta calabacín en cubitos. Pica ajo.",
+    "motivational_text": "La concentración que perdiste va a volver. Empezá hoy, con este plato.",
+    "button_category": "Más energía",
+    "id": 124,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "ENSALADA DE RÚCULA CON NUECES Y MANZANA",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Rúcula fresca: 150g",
+      "Nueces crudas: 50g",
+      "Manzana verde: 1/2 mediana",
+      "Cebolla roja: 1/8 pequeña",
+      "Limón fresco: 1/2",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Rúcula glucosinolatos que protegen neuronas. Nueces omega-3 para memoria. Manzana fibra soluble.",
+    "instructions": "Lava rúcula bien. Córtala en tiras medianas. Corta manzana en juliana fina (bastones delgados). Pica cebolla roja en cubitos microscópicos. En sartén seca a fuego medio, coloca nueces crudas. Tuéstalas 2-3 minutos.",
+    "motivational_text": "Tu memoria no se fue. Solo necesita los nutrientes correctos para despertar.",
+    "button_category": "Más energía",
+    "id": 125,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "POLLO DESMENUZADO CON ARROZ Y VEGETALES",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Pechuga de pollo: 150g",
+      "Arroz integral: 60g",
+      "Zanahoria: 80g",
+      "Cebolla: 50g",
+      "Agua filtrada: 200ml",
+      "Aceite de oliva: 12ml",
+      "Ajo: 1 diente",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Pollo proteína para neurotransmisores. Arroz integral glucosa lenta. Vegetales minerales para cognición.",
+    "instructions": "Cocina pollo en agua hirviendo durante 15 minutos.",
+    "motivational_text": "La claridad es poder. Y estás a punto de recuperarlo.",
+    "button_category": "Más energía",
+    "id": 126,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "MERLUZA CON ESPINACA AL VAPOR",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Filete de merluza: 200g",
+      "Espinaca fresca: 100g",
+      "Limón fresco: 1/2",
+      "Ajo: 2 dientes",
+      "Aceite de oliva: 10ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Merluza al vapor preserva nutrientes. Espinaca hierro para oxigenación cerebral. Limón vitamina C.",
+    "instructions": "En una olla con vapor (o colador sobre agua hirviendo), prepara base con agua con sal. Corta espinaca en tiras medianas. Pela ajo y córtalo en láminas.",
+    "motivational_text": "Cada ingrediente aquí está pensado para tu bienestar mental. Recibilo así.",
+    "button_category": "Más energía",
+    "id": 127,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "ENSALADA DE LENTEJAS VERDES CON TOMATE",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Lentejas verdes cocidas: 150g",
+      "Tomate fresco: 100g",
+      "Cebolla roja: 1/4",
+      "Perejil fresco: 10g",
+      "Limón fresco: 1",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Lentejas verdes proteína vegetal con hierro. Tomate licopeno. Perejil vitamina K para memoria.",
+    "instructions": "Coloca lentejas verdes cocidas en bol grande. Corta tomate en cubos pequeños. Pica cebolla roja en cubitos. Pica perejil fresco.",
+    "motivational_text": "Mereces tener la cabeza clara. Mereces pensar sin ese ruido.",
+    "button_category": "Más energía",
+    "id": 128,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "POLLO CON BRÓCOLI Y AJO",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Pechuga de pollo: 180g",
+      "Brócoli fresco: 200g",
+      "Ajo: 4 dientes",
+      "Aceite de oliva: 15ml",
+      "Limón fresco: 1/2",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "",
+    "instructions": "Corta pollo en cubos de 2cm.",
+    "motivational_text": "Tu inteligencia sigue intacta. Solo dale a tu cerebro lo que necesita.",
+    "button_category": "Más energía",
+    "id": 129,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "CALDO DE VERDURAS CON POLLO DESMENUZADO",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Pechuga de pollo: 120g",
+      "Zanahoria: 100g",
+      "Cebolla: 80g",
+      "Apio: 60g",
+      "Agua filtrada: 700ml",
+      "Perejil fresco: 1 ramita",
+      "Ajo: 1 diente",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Caldo base para nutrición cerebral. Pollo desmenuzado fácil de digerir. Vegetales variados nutrientes.",
+    "instructions": "Coloca agua filtrada en olla.",
+    "motivational_text": "La bruma va a levantarse. Dale tiempo y nutrición. Va a volver.",
+    "button_category": "Más energía",
+    "id": 130,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "ATÚN CON VEGETALES FRESCOS",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Atún en lata en agua: 150g",
+      "Lechuga romana: 120g",
+      "Tomate cherry: 80g",
+      "Pepino: 80g",
+      "Cebolla roja: 1/4",
+      "Limón fresco: 1",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Atún omega-3 para memoria. Vegetales crudos enzimas vivas. Limón amplía absorción.",
+    "instructions": "Lava lechuga bien. Córtala en tiras medianas. Corta tomates cherry a la mitad. Pela pepino y córtalo en cubitos de 1cm. Pica cebolla roja en cubitos pequeños.",
+    "motivational_text": "Vos no estás loca. Tu cuerpo solo necesita esto.",
+    "button_category": "Más energía",
+    "id": 131,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "HUEVOS CON TOMATE CASERO",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Huevos: 2 grandes",
+      "Tomate fresco: 150g",
+      "Cebolla: 50g",
+      "Ajo: 1 diente",
+      "Aceite de oliva: 12ml",
+      "Perejil fresco: 5g",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Huevos colina para memoria. Tomate licopeno. Perejil vitamina K para cognición.",
+    "instructions": "Pica cebolla en cubitos. Corta tomate en cubos pequeños. Pica ajo. Pica perejil.",
+    "motivational_text": "La lucidez que extrañás está más cerca de lo que crees.",
+    "button_category": "Más energía",
+    "id": 132,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "GARBANZOS CON ESPINACA",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Garbanzos cocidos: 180g",
+      "Espinaca fresca: 150g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Aceite de oliva: 15ml",
+      "Caldo vegetal: 100ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Garbanzos proteína vegetal. Espinaca hierro para cognición. Combinación proteína + vegetales.",
+    "instructions": "Lava espinaca. Córtala en tiras medianas. Pica cebolla. Pica ajo.",
+    "motivational_text": "Tu mente es tu hogar. Cuidala como se merece.",
+    "button_category": "Más energía",
+    "id": 133,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "CARNE MOLIDA CON TOMATE Y CEBOLLA",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Carne molida magra: 150g",
+      "Tomate fresco: 200g",
+      "Cebolla mediana: 1",
+      "Ajo: 2 dientes",
+      "Aceite de oliva: 15ml",
+      "Orégano seco: 1/4 cucharadita",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Carne molida hierro hemo. Tomate licopeno. Orégano antioxidantes para protección neuronal.",
+    "instructions": "Pica cebolla en cubitos medianos. Corta tomate en cubos pequeños. Pica ajo fino.",
+    "motivational_text": "Enfoque, memoria, claridad. Todo está en lo que ponés en tu boca.",
+    "button_category": "Más energía",
+    "id": 134,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "MERLUZA CON PAPAS HERVIDAS",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Filete de merluza: 200g",
+      "Papas medianas: 200g",
+      "Limón fresco: 1",
+      "Aceite de oliva: 15ml",
+      "Perejil fresco: 10g",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "",
+    "instructions": "Pela papas y córtalas en cubos de 2cm. En olla con agua hirviendo con sal, cocina papas 12-15 minutos. Añade filete de merluza al agua con papas.",
+    "motivational_text": "La mujer brillante que sos sigue ahí. Solo espera a ser alimentada.",
+    "button_category": "Más energía",
+    "id": 135,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "POLLO GUISADO CON ZANAHORIA",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Pechuga de pollo: 180g",
+      "Zanahoria: 150g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Caldo casero: 250ml",
+      "Aceite de oliva: 12ml",
+      "Tomillo fresco: 1 rama",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Pollo proteína para neurotransmisores. Zanahoria betacaroteno. Tomillo antioxidante.",
+    "instructions": "Corta pollo en cubos de 2cm. Corta zanahoria en rodajas de 0,5cm. Pica cebolla. Pica ajo.",
+    "motivational_text": "Tu pensamiento es tu poder. Recuperalo hoy.",
+    "button_category": "Más energía",
+    "id": 136,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "CABALLA CON LIMÓN Y PEREJIL",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Filetes de caballa: 200g",
+      "Limón fresco: 1",
+      "Perejil fresco: 10g",
+      "Ajo: 2 dientes",
+      "Aceite de oliva: 12ml",
+      "Cebolla: 1/4",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Caballa omega-3 para memoria. Limón vitamina C. Perejil vitamina K para cognición.",
+    "instructions": "Corta cebolla en rodajas muy finas. Pela ajo y córtalo en láminas. Pica perejil.",
+    "motivational_text": "La confusión mental tiene remedio. Y empieza en tu cocina.",
+    "button_category": "Más energía",
+    "id": 137,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "FIDEOS INTEGRALES CON ESPINACA Y AJO",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Fideos integrales secos: 80g",
+      "Espinaca fresca: 120g",
+      "Ajo: 3 dientes",
+      "Aceite de oliva: 15ml",
+      "Limón fresco: 1/2",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Fideos integrales fibra. Espinaca hierro para oxigenación cerebral. Ajo alicina.",
+    "instructions": "Cocina fideos integrales según tiempo del paquete.",
+    "motivational_text": "Vos sos más clara de lo que te sentís. Esto te lo va a probar.",
+    "button_category": "Más energía",
+    "id": 138,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "ENSALADA DE HABAS FRESCAS",
+    "type": "CLARIDAD",
+    "ingredients": [
+      "Habas frescas: 200g",
+      "Lechuga mix: 100g",
+      "Tomate cherry: 80g",
+      "Cebolla roja: 1/8",
+      "Menta fresca: 5 hojas",
+      "Limón fresco: 1/2",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Habas proteína vegetal con hierro. Vegetales crudos enzimas. Menta refresca mente.",
+    "instructions": "En olla con agua hirviendo con sal, cocina habas 8-10 minutos. Enfría en agua fría. Pela las habas (retira la cáscara).",
+    "motivational_text": "Tu cerebro quiere funcionar bien. Dale las herramientas.",
+    "button_category": "Más energía",
+    "id": 139,
+    "category": "CLARIDAD"
+  },
+  {
+    "name": "CALDO DESINFLAMANTE CON JENGIBRE",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Caldo de pollo casero: 500ml",
+      "Jengibre fresco: 20g",
+      "Cúrcuma en polvo: 1/2 cucharadita",
+      "Pimienta negra: una pizca",
+      "Limón fresco: 1/2",
+      "Ajo: 1 diente",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "",
+    "instructions": "Calienta caldo de pollo a fuego medio-bajo. NO que hierva. Ralla jengibre fresco con rallador fino. Pela ajo y córtalo muy fino.",
+    "motivational_text": "La concentración no es un don. Es una consecuencia de alimentarse bien.",
+    "button_category": "Desinflamarse",
+    "id": 140,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "POLLO HERVIDO CON ARROZ Y ZANAHORIA",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Pechuga de pollo: 150g",
+      "Arroz blanco: 80g",
+      "Zanahoria: 100g",
+      "Agua filtrada: 500ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Pollo hervido fácil de digerir. Arroz blanco suave para intestino irritado. Zanahoria pectin que sella intestino.",
+    "instructions": "En olla con agua filtrada, cocina pollo 12 minutos.",
+    "motivational_text": "Tu cuerpo va a sentir alivio. Merecés estar cómoda en tu piel.",
+    "button_category": "Desinflamarse",
+    "id": 141,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "PURÉ DE CALABAZA SUAVE",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Calabaza: 300g",
+      "Agua filtrada: 200ml",
+      "Manteca sin sal: 15g",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Calabaza suave para intestino. Poca fibra pero nutritiva. Fácil de digerir.",
+    "instructions": "Pela calabaza. Córtala en cubos de 2cm. En olla con agua filtrada, cocina calabaza 15-20 minutos hasta que esté muy blanda.",
+    "motivational_text": "La hinchazón no define quién sos. Este plato te va a demostrar que podés cambiar eso.",
+    "button_category": "Desinflamarse",
+    "id": 142,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "MERLUZA AL VAPOR SUAVE",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Filete de merluza: 200g",
+      "Limón fresco: 1/2",
+      "Agua filtrada: 500ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Merluza al vapor máxima digestibilidad. Proteína pura sin grasas. Limón estimula bilis.",
+    "instructions": "En olla con vapor, coloca agua con sal.",
+    "motivational_text": "Tu digestión es importante. Y este plato está diseñado para ayudarla.",
+    "button_category": "Desinflamarse",
+    "id": 143,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "CALDO DE VERDURAS MUY SUAVE",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Agua filtrada: 600ml",
+      "Zanahoria: 100g",
+      "Apio: 60g",
+      "Cebolla: 50g",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "",
+    "instructions": "Pela zanahoria. Córtala en rodajas. Corta apio en trozos. Corta cebolla en cuartos. En olla con agua filtrada, cocina verduras 20 minutos a fuego lento. Cuela el caldo.",
+    "motivational_text": "Alivio. Comodidad. Paz. Eso es lo que este plato te trae.",
+    "button_category": "Desinflamarse",
+    "id": 144,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "POLLO DESMENUZADO CON PAPAS SUAVES",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Pechuga de pollo: 150g",
+      "Papas: 200g",
+      "Agua filtrada: 400ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Pollo hervido suavísimo. Papas hidrato digerible. Combinación muy fácil.",
+    "instructions": "Pela papas. Córtalas en cubos pequeños de 1cm. En olla con agua filtrada, cocina papas 10 minutos.",
+    "motivational_text": "Mereces sentirte liviana. Mereces que tu cuerpo no te duela.",
+    "button_category": "Desinflamarse",
+    "id": 145,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "ARROZ BLANCO CON PEREJIL",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Arroz blanco: 80g",
+      "Agua filtrada: 200ml",
+      "Perejil fresco: 5g",
+      "Aceite de oliva: 5ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Arroz blanco suave y digerible. Perejil estimula digestión. Bajo en fibra irritante.",
+    "instructions": "Lava arroz blanco. En olla con agua filtrada, cocina arroz según instrucciones del paquete.",
+    "motivational_text": "La inflamación es temporal. Tus cuidados son permanentes.",
+    "button_category": "Desinflamarse",
+    "id": 146,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "CALDO DE HUESO SIMPLE",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Agua filtrada: 1 litro",
+      "Huesos de pollo: 200g",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Caldo de hueso sella intestino. Gelatina que repara mucosa. Más digestivo que cualquier cosa.",
+    "instructions": "En olla con agua filtrada, coloca huesos de pollo.",
+    "motivational_text": "Tu panza va a estar mejor. Ya lo vas a ver.",
+    "button_category": "Desinflamarse",
+    "id": 147,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "TÉ DE MANZANILLA CON JENGIBRE",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Agua filtrada: 350ml",
+      "Manzanilla fresca: 3 flores",
+      "Jengibre fresco: 10g",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua filtrada hasta que empiece a vapor (no hirviente).",
+    "motivational_text": "No es debilidad sentir incómoda. Es sabiduría buscar soluciones.",
+    "button_category": "Desinflamarse",
+    "id": 148,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "FILETE A LA PLANCHA SIN CONDIMENTOS FUERTES",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Filete de carne magra: 150g",
+      "Limón fresco: 1/2",
+      "Aceite de oliva: 10ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Carne magra proteína pura. Sin especias que irriten. Limón estimula digestión.",
+    "instructions": "Saca filete 10 minutos antes de cocinar (a temperatura ambiente).",
+    "motivational_text": "Tu sistema digestivo va a estar tranquilo. Relajado. En paz.",
+    "button_category": "Desinflamarse",
+    "id": 149,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "VERDURAS COCIDAS SUAVES",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Zanahoria: 150g",
+      "Calabacín: 150g",
+      "Apio: 100g",
+      "Agua filtrada: 500ml",
+      "Aceite de oliva: 10ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Verduras muy cocidas fácil digestión. Bajo contenido de fibra fermentable. Suave para intestino.",
+    "instructions": "Pela zanahoria. Córtala en rodajas. Pela calabacín. Córtalo en rodajas. Corta apio en trozos. En olla con agua filtrada, cocina zanahoria 12 minutos.",
+    "motivational_text": "Mereces noches sin hinchazón. Días sin esa sensación extraña.",
+    "button_category": "Desinflamarse",
+    "id": 150,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "SOPA MUY SUAVE DE VEGETALES",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Agua filtrada: 600ml",
+      "Zanahoria: 100g",
+      "Papa: 100g",
+      "Apio: 50g",
+      "Caldo de pollo casero: 150ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Sopa suave que nutre sin irritar. Vegetales bien cocidos. Fácil de digerir.",
+    "instructions": "Pela zanahoria y corta en cubos pequeños. Pela papa y corta en cubos. Corta apio en trozos. En olla con agua filtrada, cocina zanahoria y papa 10 minutos.",
+    "motivational_text": "Tu cuerpo agradece cuando lo entendés. Este plato lo demuestra.",
+    "button_category": "Desinflamarse",
+    "id": 151,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "HUEVOS MUY SUAVES PASADOS POR AGUA",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Huevos: 2",
+      "Agua: 500ml",
+      "Sal marina: al gusto",
+      "Pan integral tostado: 1 rebanada"
+    ],
+    "benefits": "Huevos pasados por agua máxima digestibilidad. Proteína fácil. Yema jugosa suave.",
+    "instructions": "En olla con agua hirviendo con sal, coloca 2 huevos.",
+    "motivational_text": "Bienestar digestivo no es lujo. Es lo mínimo que te mereces.",
+    "button_category": "Desinflamarse",
+    "id": 152,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "CALDO LIGERO CON LIMÓN",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Caldo de pollo casero: 500ml",
+      "Limón fresco: 1",
+      "Agua filtrada: 200ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "",
+    "instructions": "Calienta caldo de pollo a fuego bajo. Añade agua filtrada para diluir.",
+    "motivational_text": "La desinflamación empieza hoy. Preparate para sentir la diferencia.",
+    "button_category": "Desinflamarse",
+    "id": 153,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "MERLUZA CON CALABACÍN SUAVE",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Filete de merluza: 180g",
+      "Calabacín: 150g",
+      "Agua filtrada: 300ml",
+      "Limón fresco: 1/2",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Merluza proteína pura. Calabacín muy suave. Combinación muy digestiva.",
+    "instructions": "Pela calabacín. Córtalo en rodajas finas. En olla con vapor, coloca agua con sal.",
+    "motivational_text": "Comodidad en tu cuerpo es libertad en tu mente.",
+    "button_category": "Desinflamarse",
+    "id": 154,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "POLLO MUY BIEN COCIDO CON AGUA DE COCCIÓN",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Pechuga de pollo: 150g",
+      "Agua filtrada: 500ml",
+      "Cebolla: 1/4",
+      "Ajo: 1 diente",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Pollo sobrecocido máxima suavidad. Agua de cocción con minerales. Muy fácil de digerir.",
+    "instructions": "En olla con agua filtrada, cocina pollo en trozos 20 minutos (sobrecocción).",
+    "motivational_text": "Tu vientre va a estar agradecido. Te lo prometo.",
+    "button_category": "Desinflamarse",
+    "id": 155,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "TÉ DE HINOJO DESPUÉS DE COMER",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Agua filtrada: 350ml",
+      "Semillas de hinojo: 1 cucharada",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua filtrada hasta que empiece a vapor.",
+    "motivational_text": "Esto no es restricción. Es liberación. Tu cuerpo va a responder.",
+    "button_category": "Desinflamarse",
+    "id": 156,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "BRÓCOLI MUY COCIDO SIN ESPECIAS",
+    "type": "HINCHAZÓN",
+    "ingredients": [
+      "Brócoli fresco: 250g",
+      "Agua filtrada: 500ml",
+      "Aceite de oliva: 10ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Brócoli bien cocido más suave. Menos gases que crudo. Mantiene nutrientes.",
+    "instructions": "Retira brócoli en florcitas de 3cm. En olla con agua hirviendo con sal, cocina 12-15 minutos. Brócoli debe estar bien blando, casi desmenuzable.",
+    "motivational_text": "Mereces sentirte bien en tu cuerpo. Y podés lograrlo sin sufrimiento.",
+    "button_category": "Desinflamarse",
+    "id": 157,
+    "category": "HINCHAZÓN"
+  },
+  {
+    "name": "PECHUGA A LA PARRILLA CON LECHUGA ABUNDANTE",
+    "type": "BAJAR",
+    "ingredients": [
+      "Pechuga de pollo: 180g",
+      "Lechuga romana: 200g",
+      "Tomate: 100g",
+      "Cebolla roja: 1/4",
+      "Limón fresco: 1",
+      "Aceite de oliva: 15ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Pechuga proteína pura que sacia horas. Lechuga volumen sin calorías. Combinación perfecta.",
+    "instructions": "Golpea pechuga entre plástico hasta 2cm uniforme.",
+    "motivational_text": "Tu transformación ya empezó. Hoy, con este primer plato.",
+    "button_category": "Bajar de peso",
+    "id": 158,
+    "category": "BAJAR"
+  },
+  {
+    "name": "MERLUZA AL HORNO SIN ACEITE EXTRA",
+    "type": "BAJAR",
+    "ingredients": [
+      "Filete de merluza: 200g",
+      "Tomate fresco: 150g",
+      "Cebolla blanca: 1/4",
+      "Limón fresco: 1",
+      "Ajo: 2 dientes",
+      "Perejil fresco: 10g",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Merluza proteína con 0 grasas casi. Muy saciante. Bajo en calorías al máximo.",
+    "instructions": "Precalienta horno a 190°C. En bandeja sin engrasar, coloca filete de merluza. Corta tomate en rodajas.",
+    "motivational_text": "No es sobre lo que dejas de comer. Es sobre lo que elegís para vos.",
+    "button_category": "Bajar de peso",
+    "id": 159,
+    "category": "BAJAR"
+  },
+  {
+    "name": "SOPA DE VERDURAS ABUNDANTE Y CALDO CLARO",
+    "type": "BAJAR",
+    "ingredients": [
+      "Caldo vegetal: 600ml",
+      "Zanahoria: 100g",
+      "Cebolla: 80g",
+      "Calabacín: 100g",
+      "Brócoli: 80g",
+      "Tomate fresco: 80g",
+      "Ajo: 1 diente",
+      "Perejil fresco: 5g",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Sopa voluminosa con pocas calorías. Muchos vegetales, poco caldo. Muy saciante.",
+    "instructions": "Corta zanahoria en cubos de 0,5cm. Corta cebolla. Corta calabacín en cubos.",
+    "motivational_text": "Tu peso no define tu valor. Pero sí define cómo te sentís en tu piel.",
+    "button_category": "Bajar de peso",
+    "id": 160,
+    "category": "BAJAR"
+  },
+  {
+    "name": "CARNE MOLIDA CON COLIFLOR",
+    "type": "BAJAR",
+    "ingredients": [
+      "Carne molida magra: 120g",
+      "Coliflor: 250g",
+      "Cebolla: 50g",
+      "Ajo: 1 diente",
+      "Tomate: 80g",
+      "Aceite de oliva: 10ml",
+      "Comino: 1/4 cucharadita",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Carne molida magra baja en grasas. Coliflor voluminosa, pocas calorías. Saciante total.",
+    "instructions": "Retira coliflor en florcitas pequeñas. Pica cebolla. Pica ajo. Pica tomate en cubos.",
+    "motivational_text": "Cada elección es una victoria pequeña. Acumulalas y mirá el resultado.",
+    "button_category": "Bajar de peso",
+    "id": 161,
+    "category": "BAJAR"
+  },
+  {
+    "name": "POLLO CON ENSALADA DE COL CRUDA",
+    "type": "BAJAR",
+    "ingredients": [
+      "Pechuga de pollo: 150g",
+      "Col blanca: 200g",
+      "Zanahoria: 80g",
+      "Cebolla roja: 1/4",
+      "Limón fresco: 1",
+      "Aceite de oliva: 12ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Pollo proteína. Col cruda voluminosa, pocas calorías. Ensalada llena mucho.",
+    "instructions": "Cocina pechuga en sartén a fuego medio-alto 6-7 minutos de cada lado. Corta en tiras. Corta col en juliana (bastones finos). Ralla zanahoria. Pica cebolla roja fina.",
+    "motivational_text": "Podés comer bien y bajar de peso. No son opciones excluyentes.",
+    "button_category": "Bajar de peso",
+    "id": 162,
+    "category": "BAJAR"
+  },
+  {
+    "name": "FILETE DELGADO CON VEGETALES AL VAPOR",
+    "type": "BAJAR",
+    "ingredients": [
+      "Filete de carne: 120g",
+      "Brócoli: 150g",
+      "Zanahoria: 100g",
+      "Limón fresco: 1/2",
+      "Agua filtrada: 500ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Filete magro proteína pura. Vegetales al vapor sin grasas. Máximo bajo en calorías.",
+    "instructions": "En olla con vapor, coloca agua con sal.",
+    "motivational_text": "Tu cuerpo es sabio. Dale comida real y va a encontrar su equilibrio.",
+    "button_category": "Bajar de peso",
+    "id": 163,
+    "category": "BAJAR"
+  },
+  {
+    "name": "ATÚN ENLATADO CON ESPINACA CRUDA",
+    "type": "BAJAR",
+    "ingredients": [
+      "Atún en lata en agua: 150g",
+      "Espinaca fresca: 150g",
+      "Tomate cherry: 100g",
+      "Limón fresco: 1",
+      "Aceite de oliva: 10ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Atún proteína marina económica. Espinaca cruda fibra máxima. Muy bajo en calorías.",
+    "instructions": "Lava espinaca. Córtala en tiras medianas. Corta tomates cherry a mitades.",
+    "motivational_text": "No es dieta. Es forma de vida. Y empieza ahora.",
+    "button_category": "Bajar de peso",
+    "id": 164,
+    "category": "BAJAR"
+  },
+  {
+    "name": "HUEVOS DUROS CON ENSALADA VARIADA",
+    "type": "BAJAR",
+    "ingredients": [
+      "Huevos: 2",
+      "Lechuga mix: 150g",
+      "Tomate cherry: 80g",
+      "Pepino: 80g",
+      "Cebolla roja: 1/8",
+      "Limón fresco: 1/2",
+      "Aceite de oliva: 10ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Huevos duros proteína portable. Ensalada voluminosa. Muy saciante bajo calorías.",
+    "instructions": "En olla con agua hirviendo, cocina 2 huevos 10 minutos. Enfría en agua fría. Pela. Corta en cuartos. Lava lechuga. Córtala en tiras. Corta tomate cherry a mitades. Corta pepino en cubos. Pica cebolla. En plato grande, monta ensalada: lechuga, tomate, pepino, cebolla, huevo en cuartos.",
+    "motivational_text": "Mereces vivir en un cuerpo que se sienta bien.",
+    "button_category": "Bajar de peso",
+    "id": 165,
+    "category": "BAJAR"
+  },
+  {
+    "name": "FIDEOS INTEGRALES CON SALSA DE TOMATE SIN ACEITE EXTRA",
+    "type": "BAJAR",
+    "ingredients": [
+      "Fideos integrales: 80g",
+      "Tomate fresco: 250g",
+      "Cebolla: 50g",
+      "Ajo: 2 dientes",
+      "Orégano seco: 1/4 cucharadita",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Fideos integrales fibra máxima. Salsa de tomate sin aceite extra. Bajo calorías.",
+    "instructions": "Cocina fideos integrales según tiempo del paquete.",
+    "motivational_text": "La saciedad que siente después te va a sorprender.",
+    "button_category": "Bajar de peso",
+    "id": 166,
+    "category": "BAJAR"
+  },
+  {
+    "name": "LENTEJAS ROJAS CON CALDO CLARO",
+    "type": "BAJAR",
+    "ingredients": [
+      "Lentejas rojas: 80g",
+      "Caldo vegetal: 300ml",
+      "Cebolla: 50g",
+      "Ajo: 1 diente",
+      "Limón fresco: 1/2",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Lentejas rojas proteína vegetal con fibra. Bajo en grasas. Muy saciante.",
+    "instructions": "Pica cebolla. Pica ajo. En olla sin aceite a fuego medio, sofríe cebolla y ajo 2 minutos con agua si es necesario.",
+    "motivational_text": "Tu fuerza de voluntad es real. Tu capacidad, también.",
+    "button_category": "Bajar de peso",
+    "id": 167,
+    "category": "BAJAR"
+  },
+  {
+    "name": "CABALLA AL HORNO MUY BAJO EN ACEITE",
+    "type": "BAJAR",
+    "ingredients": [
+      "Filetes de caballa: 180g",
+      "Limón fresco: 1",
+      "Tomate fresco: 100g",
+      "Cebolla: 1/4",
+      "Ajo: 1 diente",
+      "Perejil fresco: 5g",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Caballa omega-3 pero cocina muy bajo en aceite. Saciante proteína marina.",
+    "instructions": "Precalienta horno a 180°C. En bandeja sin engrasar, coloca caballa. Corta tomate en rodajas.",
+    "motivational_text": "Esto es para vos. Para tu salud. Para tu paz mental.",
+    "button_category": "Bajar de peso",
+    "id": 168,
+    "category": "BAJAR"
+  },
+  {
+    "name": "POLLO GUISADO CON MUY POCO ACEITE",
+    "type": "BAJAR",
+    "ingredients": [
+      "Pechuga de pollo: 150g",
+      "Zanahoria: 100g",
+      "Cebolla: 50g",
+      "Caldo casero: 250ml",
+      "Ajo: 1 diente",
+      "Tomillo fresco: 1 rama",
+      "Aceite de oliva: 8ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Pollo bajo en aceite. Guiso saciante. Pocas calorías pero voluminoso.",
+    "instructions": "Corta pollo en cubos de 2cm. Corta zanahoria en rodajas. Pica cebolla. Pica ajo.",
+    "motivational_text": "Resultado duradero. No son promesas falsas. Es nutrición real.",
+    "button_category": "Bajar de peso",
+    "id": 169,
+    "category": "BAJAR"
+  },
+  {
+    "name": "ESPINACA SALTEADA CON AJO SIN ACEITE EXTRA",
+    "type": "BAJAR",
+    "ingredients": [
+      "Espinaca fresca: 200g",
+      "Ajo: 3 dientes",
+      "Limón fresco: 1/2",
+      "Agua filtrada: 50ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Espinaca voluminosa, 0 calorías casi. Cocida sin aceite. Máxima saciante.",
+    "instructions": "Lava espinaca bien. Córtala en tiras medianas. Pela ajo y córtalo en láminas finas. En sartén a fuego medio, sofríe ajo 1 minuto CON agua (no aceite).",
+    "motivational_text": "Vos podés. Ya lo sabés. Este plato te lo confirma.",
+    "button_category": "Bajar de peso",
+    "id": 170,
+    "category": "BAJAR"
+  },
+  {
+    "name": "SALMÓN ENLATADO CON VEGETALES CRUDOS",
+    "type": "BAJAR",
+    "ingredients": [
+      "Salmón en lata en agua: 120g",
+      "Lechuga romana: 150g",
+      "Tomate cherry: 80g",
+      "Pepino: 80g",
+      "Limón fresco: 1",
+      "Aceite de oliva: 8ml",
+      "Sal marina y pimienta: al gusto"
+    ],
+    "benefits": "Salmón omega-3 saciante. Vegetales crudos volumen sin calorías. Bajo en calorías pero proteína.",
+    "instructions": "Lava lechuga. Córtala en tiras. Corta tomate cherry a mitades. Corta pepino en cubos.",
+    "motivational_text": "Tu transformación es posible. Aquí empieza.",
+    "button_category": "Bajar de peso",
+    "id": 171,
+    "category": "BAJAR"
+  },
+  {
+    "name": "ARROZ INTEGRAL CON VERDURAS COCIDAS",
+    "type": "BAJAR",
+    "ingredients": [
+      "Arroz integral: 70g",
+      "Zanahoria: 80g",
+      "Calabacín: 80g",
+      "Cebolla: 40g",
+      "Agua filtrada: 170ml",
+      "Ajo: 1 diente",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Arroz integral fibra máxima. Muchas verduras, poco arroz. Muy saciante pocas calorías.",
+    "instructions": "Lava arroz integral. Corta zanahoria en cubitos. Corta calabacín en cubitos. Pica cebolla y ajo. En olla a fuego medio, sofríe cebolla y ajo 2 minutos CON agua (sin aceite).",
+    "motivational_text": "La comida real no engorda. Sacia.",
+    "button_category": "Bajar de peso",
+    "id": 172,
+    "category": "BAJAR"
+  },
+  {
+    "name": "POROTOS BLANCOS CON TOMATE",
+    "type": "BAJAR",
+    "ingredients": [
+      "Porotos blancos cocidos: 180g",
+      "Tomate fresco: 150g",
+      "Cebolla: 50g",
+      "Ajo: 1 diente",
+      "Caldo vegetal: 150ml",
+      "Orégano seco: 1/4 cucharadita",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Porotos blancos proteína vegetal. Comida saciante baja calorías. Fibra máxima.",
+    "instructions": "Pica cebolla. Pica ajo. Corta tomate en cubos pequeños. En olla SIN aceite a fuego medio, sofríe cebolla y ajo 2 minutos CON agua.",
+    "motivational_text": "Vos mereces un cuerpo que se sienta como hogar.",
+    "button_category": "Bajar de peso",
+    "id": 173,
+    "category": "BAJAR"
+  },
+  {
+    "name": "AVENA CREMOSA CON ALMENDRAS",
+    "type": "MEJOR",
+    "ingredients": [
+      "Avena sin gluten: 50g",
+      "Leche de almendras: 250ml",
+      "Almendras crudas: 30g",
+      "Miel pura: 1 cucharadita",
+      "Canela en polvo: 1/4 cucharadita",
+      "Vainilla natural: 2 gotas"
+    ],
+    "benefits": "Avena avenina que relaja. Almendras magnesio mineral del descanso. Miel estabiliza cortisol nocturno.",
+    "instructions": "Calienta leche de almendras en olla a fuego bajo (no hierva).",
+    "motivational_text": "El cambio que querés es solo cuestión de decisiones diarias.",
+    "button_category": "Mejor sueño",
+    "id": 174,
+    "category": "MEJOR"
+  },
+  {
+    "name": "TÉ DE MANZANILLA CON MIEL",
+    "type": "MEJOR",
+    "ingredients": [
+      "Agua filtrada: 350ml",
+      "Flores de manzanilla fresca: 3",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "Manzanilla apigenina que relaja. Miel melatonina natural. Limón vitamina C para absorción.",
+    "instructions": "Calienta agua filtrada hasta que empiece a vapor (no hirviente).",
+    "motivational_text": "Tu cuerpo responde a la nutrición de calidad. Dale.",
+    "button_category": "Mejor sueño",
+    "id": 175,
+    "category": "MEJOR"
+  },
+  {
+    "name": "LECHE TIBIA DE ALMENDRAS CON MIEL Y CANELA",
+    "type": "MEJOR",
+    "ingredients": [
+      "Leche de almendras: 250ml",
+      "Miel pura: 1 cucharadita",
+      "Canela en polvo: 1/4 cucharadita",
+      "Vainilla natural: 2 gotas"
+    ],
+    "benefits": "Leche de almendras magnesio. Miel melatonina. Canela estabiliza glucosa para sueño.",
+    "instructions": "Calienta leche de almendras en olla a fuego bajo hasta que esté tibia (no hirviente).",
+    "motivational_text": "Mereces dormir bien. Sin culpa. Sin ruido mental.",
+    "button_category": "Mejor sueño",
+    "id": 176,
+    "category": "MEJOR"
+  },
+  {
+    "name": "POLLO HERVIDO MUY SUAVE CON PAPAS",
+    "type": "MEJOR",
+    "ingredients": [
+      "Pechuga de pollo: 120g",
+      "Papas: 150g",
+      "Agua filtrada: 400ml",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Pollo triptófano para serotonina. Papas glucosa para sueño. Comida ligera que relaja.",
+    "instructions": "Pela papas. Córtalas en cubos de 2cm. En olla con agua filtrada, cocina papas 10 minutos.",
+    "motivational_text": "El descanso que necesitás está en los nutrientes correctos.",
+    "button_category": "Mejor sueño",
+    "id": 177,
+    "category": "MEJOR"
+  },
+  {
+    "name": "ARROZ BLANCO INTEGRAL CON POLLO DESMENUZADO",
+    "type": "MEJOR",
+    "ingredients": [
+      "Arroz integral: 70g",
+      "Pollo cocido: 100g",
+      "Agua filtrada: 170ml",
+      "Cebolla: 30g",
+      "Ajo: 1 diente",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Arroz glucosa para sueño. Pollo triptófano. Comida ligera que induce sueño.",
+    "instructions": "Lava arroz integral. Pica cebolla y ajo. En olla a fuego medio, sofríe 2 minutos.",
+    "motivational_text": "Duerme. Recúperate. Vos lo mereces.",
+    "button_category": "Mejor sueño",
+    "id": 178,
+    "category": "MEJOR"
+  },
+  {
+    "name": "CALDO DE POLLO MUY LIGERO",
+    "type": "MEJOR",
+    "ingredients": [
+      "Caldo de pollo casero: 400ml",
+      "Agua filtrada: 200ml",
+      "Limón fresco: 1/4",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Caldo muy diluido fácil de digerir. Reconfortante. Relaja antes de dormir.",
+    "instructions": "Calienta caldo de pollo a fuego bajo.",
+    "motivational_text": "La tranquilidad nocturna empieza con decisiones diurnas. Como esta.",
+    "button_category": "Mejor sueño",
+    "id": 179,
+    "category": "MEJOR"
+  },
+  {
+    "name": "TÉ DE VALERIANA CON MIEL",
+    "type": "MEJOR",
+    "ingredients": [
+      "Agua filtrada: 350ml",
+      "Raíz de valeriana: 1 cucharadita",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua filtrada hasta que empiece a vapor.",
+    "motivational_text": "Tu cuerpo quiere descansar. Dale lo que necesita para hacerlo.",
+    "button_category": "Mejor sueño",
+    "id": 180,
+    "category": "MEJOR"
+  },
+  {
+    "name": "PURÉ DE CALABAZA SUAVE CON CANELA",
+    "type": "MEJOR",
+    "ingredients": [
+      "Calabaza: 250g",
+      "Agua filtrada: 150ml",
+      "Manteca sin sal: 10g",
+      "Canela en polvo: 1/4 cucharadita",
+      "Miel pura: 1 cucharadita",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Calabaza glucosa para sueño. Canela estabiliza glucosa. Comida ligera y dulce.",
+    "instructions": "Pela calabaza. Córtala en cubos de 2cm. En olla con agua, cocina 15-20 minutos hasta blanda.",
+    "motivational_text": "Noche de sueño profundo. Eso es lo que este plato te ofrece.",
+    "button_category": "Mejor sueño",
+    "id": 181,
+    "category": "MEJOR"
+  },
+  {
+    "name": "SMOOTHIE DE PLÁTANO Y ALMENDRAS",
+    "type": "MEJOR",
+    "ingredients": [
+      "Plátano maduro: 1",
+      "Leche de almendras: 250ml",
+      "Almendras crudas: 20g",
+      "Miel pura: 1 cucharadita",
+      "Hielo: 3-4 cubitos"
+    ],
+    "benefits": "",
+    "instructions": "Puela plátano.",
+    "motivational_text": "Mereces amanecer descansada. Descansada de verdad.",
+    "button_category": "Mejor sueño",
+    "id": 182,
+    "category": "MEJOR"
+  },
+  {
+    "name": "YEMA DE HUEVO CON MIEL",
+    "type": "MEJOR",
+    "ingredients": [
+      "Yema de huevo: 1",
+      "Miel pura: 1 cucharada",
+      "Leche tibia: 100ml",
+      "Canela en polvo: una pizca"
+    ],
+    "benefits": "",
+    "instructions": "Calienta leche en olla a fuego bajo hasta que esté tibia (no hierva). Bate yema de huevo vigorosamente 30 segundos.",
+    "motivational_text": "El sueño reparador no es lujo. Es necesidad. Y está al alcance.",
+    "button_category": "Mejor sueño",
+    "id": 183,
+    "category": "MEJOR"
+  },
+  {
+    "name": "COMPOTA DE MANZANA CASERA",
+    "type": "MEJOR",
+    "ingredients": [
+      "Manzana verde: 2 medianas",
+      "Agua filtrada: 200ml",
+      "Canela en polvo: 1/4 cucharadita",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "Manzana verde pectina suave. Canela estabiliza glucosa. Ligera y reconfortante.",
+    "instructions": "Pela manzanas. Córtalas en cubos de 1cm. En olla con agua, cocina 10-15 minutos. Las manzanas deben estar muy blandas.",
+    "motivational_text": "Tu mente puede estar en paz. Te lo promete este plato.",
+    "button_category": "Mejor sueño",
+    "id": 184,
+    "category": "MEJOR"
+  },
+  {
+    "name": "LENTEJAS ROJAS MUY BIEN COCIDAS",
+    "type": "MEJOR",
+    "ingredients": [
+      "Lentejas rojas: 60g",
+      "Caldo vegetal: 250ml",
+      "Cebolla: 40g",
+      "Ajo: 1 diente",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Lentejas rojas proteína que ayuda a dormir. Comida reconfortante. Fácil de digerir.",
+    "instructions": "Pica cebolla y ajo. En olla a fuego medio, sofríe 2 minutos sin aceite (usar agua).",
+    "motivational_text": "Dormir sin despertar es posible. Para vos. Ahora.",
+    "button_category": "Mejor sueño",
+    "id": 185,
+    "category": "MEJOR"
+  },
+  {
+    "name": "TÉ DE PASIFLORA CON MIEL",
+    "type": "MEJOR",
+    "ingredients": [
+      "Agua filtrada: 350ml",
+      "Pasiflora seca: 1 cucharadita",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "Pasiflora sedante herbal. Miel melatonina. Excelente para ansiedad nocturna.",
+    "instructions": "Calienta agua filtrada hasta que empiece a vapor.",
+    "motivational_text": "El descanso es medicina. Y tú sos digna de ella.",
+    "button_category": "Mejor sueño",
+    "id": 186,
+    "category": "MEJOR"
+  },
+  {
+    "name": "GALLETAS DE AVENA CASERA",
+    "type": "MEJOR",
+    "ingredients": [
+      "Avena sin gluten: 100g",
+      "Plátano maduro: 1",
+      "Miel pura: 1 cucharada",
+      "Canela en polvo: 1/4 cucharadita",
+      "Vainilla natural: 2 gotas"
+    ],
+    "benefits": "Avena avenina que relaja. Plátano triptófano. Galletas que inducen sueño.",
+    "instructions": "Machaca plátano maduro en un bol.",
+    "motivational_text": "Noche tranquila, mañana renovada. Eso empieza hoy.",
+    "button_category": "Mejor sueño",
+    "id": 187,
+    "category": "MEJOR"
+  },
+  {
+    "name": "YOGUR NATURAL CON GRANOLA CASERA",
+    "type": "MEJOR",
+    "ingredients": [
+      "Yogur natural sin azúcar: 150ml",
+      "Avena sin gluten: 30g",
+      "Almendras: 20g",
+      "Miel pura: 1 cucharadita",
+      "Canela en polvo: una pizca",
+      "Vainilla natural: 1 gota"
+    ],
+    "benefits": "Yogur probióticos para eje intestino-cerebro. Avena avenina. Granola casera sin azúcar.",
+    "instructions": "En sartén seca a fuego medio-bajo, coloca avena.",
+    "motivational_text": "Tu cuerpo se regenera mientras duermes. Dale las herramientas.",
+    "button_category": "Mejor sueño",
+    "id": 188,
+    "category": "MEJOR"
+  },
+  {
+    "name": "SOPA DE CEBOLLA MUY SUAVE",
+    "type": "MEJOR",
+    "ingredients": [
+      "Cebolla blanca: 2 medianas",
+      "Caldo casero: 400ml",
+      "Agua filtrada: 150ml",
+      "Tomillo fresco: 1 rama",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Cebolla quercetina sedante herbal. Caldo reconfortante. Comida que relaja.",
+    "instructions": "Corta cebolla en medias lunas muy finas. En olla a fuego bajo SIN aceite, sofríe cebolla 10-12 minutos. La cebolla debe estar muy blanda y doradita.",
+    "motivational_text": "No contés ovejas. Comé esto y dormí.",
+    "button_category": "Mejor sueño",
+    "id": 189,
+    "category": "MEJOR"
+  },
+  {
+    "name": "MERLUZA MUY SUAVE CON PAPAS PURÉ",
+    "type": "MEJOR",
+    "ingredients": [
+      "Filete de merluza: 150g",
+      "Papas: 150g",
+      "Agua filtrada: 400ml",
+      "Manteca sin sal: 10g",
+      "Limón: 1/4",
+      "Sal marina: al gusto"
+    ],
+    "benefits": "Merluza triptófano. Papas glucosa para dormir. Comida ligera y reconfortante.",
+    "instructions": "Pela papas. Córtalas en cubos. En olla con agua hirviendo, cocina papas 12 minutos.",
+    "motivational_text": "Sueño profundo te espera. Preparate para despertar diferente.",
+    "button_category": "Mejor sueño",
+    "id": 190,
+    "category": "MEJOR"
+  },
+  {
+    "name": "TÉ DE MENTA FRESCA",
+    "type": "MEJOR",
+    "ingredients": [
+      "Agua filtrada: 350ml",
+      "Hojas de menta fresca: 10-15",
+      "Miel pura: 1 cucharadita",
+      "Limón: 1/4"
+    ],
+    "benefits": "",
+    "instructions": "Calienta agua filtrada hasta que empiece a vapor (no hirviente).",
+    "motivational_text": "Tu cansancio tiene solución. Y está en este plato.",
+    "button_category": "Mejor sueño",
+    "id": 191,
+    "category": "MEJOR"
+  },
+  {
+    "name": "BIZCOCHO DE CALABAZA SIN AZÚCAR",
+    "type": "MEJOR",
+    "ingredients": [
+      "Calabaza cocida: 150g",
+      "Huevos: 2",
+      "Harina integral: 80g",
+      "Miel pura: 2 cucharadas",
+      "Canela en polvo: 1/2 cucharadita",
+      "Polvo de hornear: 1/2 cucharadita"
+    ],
+    "benefits": "Calabaza glucosa para sueño. Huevos triptófano. Bizcocho casero que relaja.",
+    "instructions": "Precalienta horno a 180°C. En bol grande, machaca calabaza cocida.",
+    "motivational_text": "Mereces descansar sin que nada te despierte.",
+    "button_category": "Mejor sueño",
+    "id": 192,
+    "category": "MEJOR"
+  },
+  {
+    "name": "AGUA CON MANZANILLA ANTES DE DORMIR",
+    "type": "MEJOR",
+    "ingredients": [
+      "Agua filtrada: 350ml",
+      "Flores de manzanilla seca: 1 cucharadita",
+      "Miel pura: 1 cucharadita"
+    ],
+    "benefits": "Manzanilla apigenina que induce sueño profundo. Agua que hidrata. Miel melatonina.",
+    "instructions": "Calienta agua filtrada hasta que empiece a vapor (no hirviente).",
+    "motivational_text": "El sueño reparador no es un sueño. Es nutrición.",
+    "button_category": "Mejor sueño",
+    "id": 193,
+    "category": "MEJOR"
+  }
+]

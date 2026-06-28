@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"
+    environment:
+      - NODE_ENV=production
+      - PORT=3001
+      - CLAUDE_API_KEY=${CLAUDE_API_KEY}
+      - JWT_SECRET=${JWT_SECRET}
+    volumes:
+      - ./backend/data:/app/data
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+  # Opcional: PostgreSQL para v2
+  # postgres:
+  #   image: postgres:15
+  #   ports:
+  #     - "5432:5432"
+  #   environment:
+  #     - POSTGRES_DB=menochef
+  #     - POSTGRES_USER=postgres
+  #     - POSTGRES_PASSWORD=${DB_PASSWORD}
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #   restart: unless-stopped
+
+# volumes:
+#   postgres_data:
